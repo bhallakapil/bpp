@@ -15,6 +15,7 @@
 
 static progparams_t parameters;
 static byte nr_bridge_deals[L];
+FILE *flog = NULL;
 
 #define goedel(bignum)  (mp96_cmp(bignum, nr_bridge_deals) < 0)
 
@@ -50,7 +51,7 @@ RMDhash(byte *value, int length)
 }
 
 static void
-init_goedel()
+init_goedel(void)
 {
 	byte a[L], b[L];
 
