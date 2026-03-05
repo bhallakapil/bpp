@@ -3,3 +3,5 @@
 *.dylib
 *.so
 .DS_Store
+redeal.egg-info/
+__pycache__/
