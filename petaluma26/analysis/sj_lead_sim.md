@@ -64,5 +64,34 @@ With a larger sample size (10,000 deals) and restrictive West hand shapes, the J
 
 ---
 
+## Dual Scoring Comparison: IMPs vs Matchpoints
 
-*Simulation performed using `redeal` and DDS. Simulation script: [`petaluma26/sj_lead_sim.py`](petaluma26/sj_lead_sim.py)*
+**Total Samples:** 4,400 deals (Simulation of 10,000 intended)
+
+### Conditions
+- **South Hand (Leader):** `♠AJ10953 ♥J1073 ♦103 ♣4`
+- **East (Declarer):** 20-21 HCP. Shapes: Balanced (4333, 4432, 5332), Semi-balanced (6322), or 2245 / 2254. Excludes 5-4 major distributions.
+- **West (Dummy):** 3-12 HCP. Refined shapes as per previous 10,000 sample run.
+
+### Statistical Results (Payoff Comparison)
+
+#### IMPs (Average IMP gain for row lead vs column lead)
+| Lead | vs ♠A | vs ♥J | vs ♦T | vs ♣4 |
+| :--- | :---: | :---: | :---: | :---: |
+| **♠J** | +1.28 | +0.52 | +0.98 | +1.04 |
+| **♥J** | +0.75 | - | +0.48 | +0.54 |
+
+#### Matchpoints (Pairwise victory probability for row lead vs column lead)
+| Lead | vs ♠A | vs ♠J | vs ♦T | vs ♣4 |
+| :--- | :---: | :---: | :---: | :---: |
+| **♥J** | +0.31 | +0.13 | +0.14 | +0.14 |
+| **♠J** | +0.20 | - | -0.03 | -0.03 |
+
+### Analysis
+The results highlight a significant divergence in strategy between scoring formats:
+- **In IMPs**, the **Jack of Spades (♠J)** is clearly superior. It maximizes the chance of a large defensive gain (defeating the contract), which is rewarded heavily in IMP scoring.
+- **In Matchpoints**, the **Jack of Hearts (♥J)** becomes the better choice. It is a more passive, "safe" lead that protects against giving away unnecessary overtricks, which is crucial for preserving a good score in pair games.
+
+---
+
+*Simulation performed using `redeal` and DDS. Simulation scripts: [`petaluma26/sj_lead_sim.py`](petaluma26/sj_lead_sim.py), [`petaluma26/sj_opening_lead_sim.py`](petaluma26/sj_opening_lead_sim.py)*
