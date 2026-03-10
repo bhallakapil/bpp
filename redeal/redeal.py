@@ -17,7 +17,7 @@ try:
 except ImportError:
     BRIGHT_GREEN = BRIGHT_RED = RESET_ALL = ""
 
-from . import dds, util
+from . import bigdeal, bigdeal_partial, dds, util
 from .global_defs import Card, Rank, Seat, Strain, Suit, FULL_DECK
 from .smartstack import SmartStack
 
@@ -251,6 +251,13 @@ class Deal(tuple):
         dealer["_remaining"] = sorted({*FULL_DECK} - {*predealt})
         return functools.partial(cls, dealer)
 
+    _use_bigdeal = True
+
+    @classmethod
+    def set_use_bigdeal(cls, use_bigdeal):
+        """Use the Big Deal RNG for generating deals."""
+        cls._use_bigdeal = use_bigdeal
+
     def __new__(cls, dealer, accept_func=None, tries=1000):
         """
         Randomly deal a hand from a prepared dealer.
@@ -260,23 +267,40 @@ class Deal(tuple):
         times.
         """
         for i in range(tries):
-            hands = [None] * len(Seat)
-            cards = dealer["_remaining"]
-            try:
-                seat = dealer["_smartstack"]
-            except KeyError:
-                pass
+            if cls._use_bigdeal:
+                # Use the general partial mapping algorithm (inspired by bigdeal)
+                cards = dealer["_remaining"]
+                needs = []
+                for seat in Seat:
+                    pre = dealer[seat]()
+                    needs.append(len(Rank) - len(pre))
+                
+                # Get random bits from bigdeal RNG if possible, or python's
+                seed_bits = random.getrandbits(96)
+                partial_hands = bigdeal_partial.generate_partial_deal(cards, needs, seed_bits=seed_bits)
+                
+                hands = [None] * len(Seat)
+                for j, seat in enumerate(Seat):
+                    pre = dealer[seat]()
+                    hands[seat] = Hand(pre + partial_hands[j])
             else:
-                hands[seat] = hand = Hand(dealer[seat]())
-                cards = sorted({*cards} - {*hand.cards()})
-            random.shuffle(cards)
-            for seat in Seat:
-                if hands[seat]:
-                    continue
-                pre = dealer[seat]()
-                to_deal = len(Rank) - len(pre)
-                hand, cards = pre + cards[:to_deal], cards[to_deal:]
-                hands[seat] = Hand(hand)
+                hands = [None] * len(Seat)
+                cards = dealer["_remaining"]
+                try:
+                    seat = dealer["_smartstack"]
+                except KeyError:
+                    pass
+                else:
+                    hands[seat] = hand = Hand(dealer[seat]())
+                    cards = sorted({*cards} - {*hand.cards()})
+                random.shuffle(cards)
+                for seat in Seat:
+                    if hands[seat]:
+                        continue
+                    pre = dealer[seat]()
+                    to_deal = len(Rank) - len(pre)
+                    hand, cards = pre + cards[:to_deal], cards[to_deal:]
+                    hands[seat] = Hand(hand)
             self = tuple.__new__(cls, hands)
             self._dd_cache = {}
             if accept_func is None or accept_func(self):
