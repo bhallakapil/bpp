@@ -8,8 +8,7 @@ Redeal is a Python implementation of the "Deal" bridge hand generator, designed 
 | :--- | :--- |
 | `__init__.py` | Package initialization; exposes version and core functionality. |
 | `__main__.py` | Command-line interface entry point; handles argument parsing and script execution. |
-| `bigdeal_partial.py` | Utility functions for mapping Goedel numbers to bridge hands. |
-| `bigdeal.py` | Pure Python implementation of the "bigdeal" algorithm for board generation. |
+| `bigdeal.py` | Pure Python implementation of the "bigdeal" algorithm for board generation and hand mapping. |
 | `dds.py` | Python interface to the Double Dummy Solver (DDS) library. |
 | `global_defs.py` | Core bridge constants and enums (Seat, Suit, Strain, Rank, Card). |
 | `redeal.py` | Main library file containing core logic (Hand, Deal, Contract, Simulation). |
@@ -37,8 +36,8 @@ Dynamically generates Python functions from strings at runtime, allowing users t
 ## Hand Generation (Big Deal)
 Redeal uses a pure Python implementation of the industry-standard "bigdeal" algorithm for high-quality, cryptographically secure randomness:
 
-- **`bigdeal.py`**: Handles entropy collection (`os.urandom`) and seed generation. It uses RIPEMD-160 hashing to produce a 96-bit "Goedel number"—a unique index representing one of the $5.36 \times 10^{28}$ possible bridge deals.
-- **`bigdeal_partial.py`**: Provides the mapping logic that transforms the Goedel number into a full bridge deal. It uses combinatorial mathematics (`math.comb`) to select 13 cards for each seat in a deterministic, reproducible way.
+- **Entropy Collection**: Handles entropy collection (`os.urandom`) and seed generation. It uses RIPEMD-160 hashing to produce a 96-bit "Goedel number"—a unique index representing one of the $5.36 \times 10^{28}$ possible bridge deals.
+- **Hand Mapping**: Provides the mapping logic that transforms the Goedel number into a full bridge deal. It uses combinatorial mathematics (`math.comb`) to select 13 cards for each seat in a deterministic, reproducible way.
 
 ## Double Dummy Solver (DDS)
 The `dds.py` file provides a Python wrapper (via `ctypes`) for the high-performance C++ Double Dummy Solver library. It allows you to solve bridge boards from within Python:
