@@ -46,7 +46,7 @@ typedef struct output_format
 #define OFF_USEIT 0x1  /* Use the format this run */
 #define OFF_BINARY 0x2 /* Output is binary, not text */
 
-static void
+void
 cnv_int_byh(dl_int *dip, dl_byh *dbhp)
 /*
  * Converts the internal handrepresentation from
@@ -112,7 +112,7 @@ cnv_int_byh(dl_int *dip, dl_byh *dbhp)
 	}
 }
 
-static void
+void
 cnv_byh_byc(dl_byh *dbhp, dl_byc *dbcp)
 /*
  * Convert from a "bri" like coding to a cardposition type coding.

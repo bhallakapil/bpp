@@ -65,3 +65,10 @@ struct prog_params {
 } progparams_t, *progparams_p;
 
 int bigdeal_generate (int nboards, int lowboard, char *filename, char *formats, char *owner);
+
+void bigdeal_init(void);
+void bigdeal_get_goedel(int boardno, char *owner, byte *goedel_out);
+
+void code_to_hand(dl_num *dnp, dl_int *dip);
+void cnv_int_byh(dl_int *dip, dl_byh *dbhp);
+void cnv_byh_byc(dl_byh *dbhp, dl_byc *dbcp);

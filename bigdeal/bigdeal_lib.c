@@ -126,3 +126,40 @@ bigdeal_generate (int nboards, int lowboard, char *filename, char *formats, char
 	os_finish();
 	return 0;
 }
+
+static dl_num nr_bridge_deals_dn;
+
+void
+bigdeal_init(void)
+{
+	os_start();
+	collect_start();
+	os_collect();
+	binomial_start();
+	init_goedel();
+	mp96_assign(nr_bridge_deals_dn.dn_num, nr_bridge_deals);
+}
+
+void
+bigdeal_get_goedel(int boardno, char *owner, byte *goedel_out)
+{
+	byte *hashcode;
+	unsigned long seqno = boardno;
+	dl_num dnumber;
+	
+	hashcode = RMDhash((byte *) owner, strlen(owner));
+	memcpy(seed.seed_owner, hashcode, RMDbytes);
+	collect_finish(seed.seed_random);
+
+	do {
+		seqno++;
+		seed.seed_sequence[0] = seqno & 0xFF;
+		seed.seed_sequence[1] = (seqno>>8) & 0xFF;
+		seed.seed_sequence[2] = (seqno>>16) & 0xFF;
+		seed.seed_sequence[3] = (seqno>>24) & 0xFF;
+		hashcode = RMDhash((byte *) &seed, sizeof(seed));
+		memcpy(dnumber.dn_num, hashcode, L);
+	} while(mp96_cmp(dnumber.dn_num, nr_bridge_deals_dn.dn_num) >= 0);
+	
+	memcpy(goedel_out, dnumber.dn_num, L);
+}
