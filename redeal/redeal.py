@@ -17,7 +17,7 @@ try:
 except ImportError:
     BRIGHT_GREEN = BRIGHT_RED = RESET_ALL = ""
 
-from . import bigdeal, bigdeal_partial, dds, util
+from . import bigdeal, dds, util
 from .global_defs import Card, Rank, Seat, Strain, Suit, FULL_DECK
 from .smartstack import SmartStack
 
@@ -277,7 +277,7 @@ class Deal(tuple):
                 
                 # Get random bits from bigdeal RNG if possible, or python's
                 seed_bits = random.getrandbits(96)
-                partial_hands = bigdeal_partial.generate_partial_deal(cards, needs, seed_bits=seed_bits)
+                partial_hands = bigdeal.generate_partial_deal(cards, needs, seed_bits=seed_bits)
                 
                 hands = [None] * len(Seat)
                 for j, seat in enumerate(Seat):
