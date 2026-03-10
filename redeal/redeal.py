@@ -22,7 +22,8 @@ from .global_defs import Card, Rank, Seat, Strain, Suit, FULL_DECK
 from .smartstack import SmartStack
 
 
-__all__ = ["Shape", "balanced", "semibalanced",
+__all__ = ["Shape", "balanced", "semibalanced", "nt_opening_shape",
+           "is_1nt", "is_2nt","is_nt_opener",
            "Evaluator", "hcp", "qp", "controls",
            "Rank", "A", "K", "Q", "J", "T", "Seat", "Strain", "Suit",
            "Card", "Holding", "Hand", "H", "Deal", "SmartStack",
@@ -179,6 +180,13 @@ class Shape:
 balanced = Shape("(4333)") + Shape("(4432)") + Shape("(5332)")
 semibalanced = balanced + Shape("(5422)") + Shape("(6322)")
 
+# NT opening shape (no 6-carders, no 5-4 majors)
+nt_opening_shape = (
+    Shape("(4333)") + Shape("(4432)") + Shape("(5332)") +
+    (Shape("(5422)") - Shape("5422") - Shape("4522")) +
+    (Shape("(5431)") - Shape("54(31)") - Shape("45(31)")) +
+    Shape("(4441)")
+)
 
 class Evaluator:
     """
@@ -503,6 +511,14 @@ class Hand(tuple):
         lambda self, _pt=attrgetter("pt"): sum(map(_pt, self)),
         "The hand's playing tricks.")
 
+    @property
+    def is_1nt(self):
+        return is_1nt(self)
+
+    @property
+    def is_2nt(self):
+        return is_2nt(self)
+
     # Compatibility with Deal.
     l1 = util.reify(lambda self: sorted(map(len, self))[3],
                     "The length of the hand's longest suit.")
@@ -525,6 +541,28 @@ class Hand(tuple):
 
 
 A, K, Q, J, T = (Rank[rank] for rank in "AKQJT")
+
+
+def is_nt_opener(hand, min_hcp, max_hcp):
+    """
+    Unified logic for 1NT (15-17) and 2NT (20-21) openers.
+    """
+    if not (min_hcp <= hand.hcp <= max_hcp):
+        return False
+    if hand.shape not in nt_opening_shape:
+        return False
+    # If hand has a singleton, it must be an Ace or King
+    if 1 in hand.shape:
+        return any(len(hold) == 1 and (A in hold or K in hold) for hold in hand)
+    return True
+
+
+def is_1nt(hand):
+    return is_nt_opener(hand, 15, 17)
+
+
+def is_2nt(hand):
+    return is_nt_opener(hand, 20, 21)
 
 
 class Holding(frozenset):

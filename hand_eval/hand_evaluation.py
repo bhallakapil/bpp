@@ -5,10 +5,8 @@ predeal = {"S": "7542 J975 K97 KQ"}
 
 def accept(deal):
     n = deal.north
-    # North opens 1NT: 15-17 HCP, Balanced
-    if not (15 <= n.hcp <= 17):
-        return False
-    if not balanced(n):
+    # North opens 1NT: Using refined is_1nt rules
+    if not is_1nt(n):
         return False
     # To evaluate 4S/4H vs 3NT, we check for 4-4 fits.
     return len(n.spades) >= 4 or len(n.hearts) >= 4
@@ -41,7 +39,7 @@ def final(n_tries):
     if c > 0:
         print(f"--- SIMULATION RESULTS (Success Rates) ---")
         print(f"South Hand: 7542 J975 K97 KQ (9 HCP, 4-4-3-2)")
-        print(f"Against 1NT opener (15-17 HCP, Balanced)")
+        print(f"Against 1NT opener (Refined is_1nt rules)")
         print(f"Total deals: {c}")
         
         rate_3nt = 100 * stats['3N_Makes'] / c
@@ -56,3 +54,11 @@ def final(n_tries):
             print(f"4H makes (when 4-4 fit): {stats['4H_Makes']}/{stats['count_H']} ({rate_4h:.1f}%)")
     else:
         print("No deals matched the constraints.")
+
+if __name__ == "__main__":
+    n = 1000
+    dealer = Deal.prepare(predeal)
+    for i in range(n):
+        deal = dealer(accept_func=accept)
+        do(deal)
+    final(n)
