@@ -551,9 +551,9 @@ def is_nt_opener(hand, min_hcp, max_hcp):
         return False
     if hand.shape not in nt_opening_shape:
         return False
-    # If hand has a singleton, it must be an Ace or King
+    # If hand has a singleton, it must be an Ace, King or Queen
     if 1 in hand.shape:
-        return any(len(hold) == 1 and (A in hold or K in hold) for hold in hand)
+        return any(len(hold) == 1 and (A in hold or K in hold or Q in hold) for hold in hand)
     return True
 
 
