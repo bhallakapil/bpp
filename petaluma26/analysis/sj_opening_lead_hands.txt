@@ -1,0 +1,3213 @@
+Simulation hands for N lead by S
+Comparing: ♠J, ♥J, ♥3, ♦T, ♣4 against ♠J
+========================================
+Hand 1:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 6, Shape 2-4-2-5
+E: HCP 21, Shape 3-3-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-2-6-3
+       
+       ♠86
+       ♥9652
+       ♦95
+       ♣KQJ96
+              
+♠Q2           ♠K74
+♥Q8           ♥AK4
+♦K87642       ♦AQJ
+♣853          ♣AT72
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 2:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 6, Shape 2-3-5-3
+E: HCP 21, Shape 2-3-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 3-3-2-5
+       
+       ♠76
+       ♥K95
+       ♦QJ976
+       ♣982
+              
+♠842          ♠KQ
+♥642          ♥AQ8
+♦52           ♦AK84
+♣AKT53        ♣QJ76
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 3:
+Spade Break: 3-1-3 (N-E-W)
+N: HCP 6, Shape 3-3-2-5
+E: HCP 20, Shape 1-3-4-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 3-3-5-2
+       
+       ♠742
+       ♥542
+       ♦KQ
+       ♣JT732
+              
+♠Q86          ♠K
+♥AQ6          ♥K98
+♦98642        ♦AJ75
+♣95           ♣AKQ86
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 4:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 8, Shape 2-2-7-2
+E: HCP 21, Shape 3-5-1-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 2-2-3-6
+       
+       ♠87
+       ♥Q2
+       ♦AQ87652
+       ♣T3
+              
+♠42           ♠KQ6
+♥98           ♥AK654
+♦J94          ♦K
+♣KJ9762       ♣AQ85
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	4	400	+0.0	+0.0
+♥3	4	400	+0.0	+0.0
+♦T	4	400	+0.0	+0.0
+♣4	4	400	+0.0	+0.0
+
+----------------------------------------
+Hand 5:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 5, Shape 1-5-4-3
+E: HCP 21, Shape 3-1-5-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 3-3-2-5
+       
+       ♠7
+       ♥A6542
+       ♦J862
+       ♣T92
+              
+♠864          ♠KQ2
+♥Q98          ♥K
+♦K5           ♦AQ974
+♣K8753        ♣AQJ6
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	3	430	+1.0	+1.0
+♥3	4	400	+2.0	+1.0
+♦T	2	460	+0.0	+0.0
+♣4	3	430	+1.0	+1.0
+
+----------------------------------------
+Hand 6:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 9, Shape 2-1-2-8
+E: HCP 20, Shape 3-5-3-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 2-3-6-2
+       
+       ♠K8
+       ♥6
+       ♦76
+       ♣KQJ86532
+              
+♠42           ♠Q76
+♥984          ♥AKQ52
+♦AJ9854       ♦KQ2
+♣T7           ♣A9
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	3	430	-11.0	-1.0
+♥3	1	490	-11.0	-1.0
+♦T	3	430	-11.0	-1.0
+♣4	3	430	-11.0	-1.0
+
+----------------------------------------
+Hand 7:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 6, Shape 1-4-4-4
+E: HCP 21, Shape 3-3-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 3-2-3-5
+       
+       ♠2
+       ♥Q862
+       ♦Q852
+       ♣QT63
+              
+♠864          ♠KQ7
+♥94           ♥AK5
+♦K96          ♦AJ74
+♣KJ752        ♣A98
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	4	400	+0.0	+0.0
+♥3	4	400	+0.0	+0.0
+♦T	3	430	-1.0	-1.0
+♣4	3	430	-1.0	-1.0
+
+----------------------------------------
+Hand 8:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 4, Shape 2-2-6-3
+E: HCP 21, Shape 3-5-2-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 2-2-3-6
+       
+       ♠Q7
+       ♥95
+       ♦Q97652
+       ♣T95
+              
+♠82           ♠K64
+♥42           ♥AKQ86
+♦K84          ♦AJ
+♣AQ8762       ♣KJ3
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	0	520	+0.0	+0.0
+♥J	1	490	+1.0	+1.0
+♥3	1	490	+1.0	+1.0
+♦T	1	490	+1.0	+1.0
+♣4	1	490	+1.0	+1.0
+
+----------------------------------------
+Hand 9:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 2, Shape 3-4-3-3
+E: HCP 20, Shape 2-3-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 12, Shape 2-2-5-4
+       
+       ♠Q82
+       ♥9652
+       ♦652
+       ♣652
+              
+♠64           ♠K7
+♥84           ♥AKQ
+♦QJ987        ♦AK4
+♣AKQ9         ♣JT873
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	0	520	+0.0	+0.0
+♥J	0	520	+0.0	+0.0
+♥3	0	520	+0.0	+0.0
+♦T	0	520	+0.0	+0.0
+♣4	0	520	+0.0	+0.0
+
+----------------------------------------
+Hand 10:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 3, Shape 3-2-3-5
+E: HCP 20, Shape 2-4-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 11, Shape 2-3-4-4
+       
+       ♠762
+       ♥62
+       ♦965
+       ♣QJ983
+              
+♠K4           ♠Q8
+♥985          ♥AKQ4
+♦AKJ4         ♦Q872
+♣7652         ♣AKT
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	1	490	-1.0	-1.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 11:
+Spade Break: 2-4-1 (N-E-W)
+N: HCP 5, Shape 2-3-5-3
+E: HCP 20, Shape 4-3-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 1-3-4-5
+       
+       ♠Q2
+       ♥965
+       ♦J9874
+       ♣Q93
+              
+♠6            ♠K874
+♥842          ♥AKQ
+♦A652         ♦KQ
+♣AJ872        ♣KT65
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	2	460	+1.0	+1.0
+♥3	2	460	+1.0	+1.0
+♦T	2	460	+1.0	+1.0
+♣4	2	460	+1.0	+1.0
+
+----------------------------------------
+Hand 12:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 11, Shape 3-2-6-2
+E: HCP 20, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 2-3-2-6
+       
+       ♠KQ4
+       ♥Q8
+       ♦KJ9875
+       ♣98
+              
+♠72           ♠86
+♥962          ♥AK54
+♦62           ♦AQ4
+♣QJT753       ♣AK62
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	3	430	-11.0	-1.0
+♥3	3	430	-11.0	-1.0
+♦T	3	430	-11.0	-1.0
+♣4	3	430	-11.0	-1.0
+
+----------------------------------------
+Hand 13:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 6, Shape 3-2-4-4
+E: HCP 20, Shape 2-4-2-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 2-3-5-3
+       
+       ♠Q74
+       ♥94
+       ♦J864
+       ♣K532
+              
+♠82           ♠K6
+♥Q86          ♥AK52
+♦AQ752        ♦K9
+♣876          ♣AQJT9
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 14:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 10, Shape 2-2-5-4
+E: HCP 20, Shape 2-5-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 3-2-3-5
+       
+       ♠72
+       ♥K6
+       ♦A9652
+       ♣K963
+              
+♠864          ♠KQ
+♥Q5           ♥A9842
+♦J74          ♦KQ8
+♣JT852        ♣AQ7
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	7	-150	+0.0	+0.0
+♥J	6	-100	-2.0	-1.0
+♥3	5	-50	-3.0	-1.0
+♦T	6	-100	-2.0	-1.0
+♣4	6	-100	-2.0	-1.0
+
+----------------------------------------
+Hand 15:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 6, Shape 2-2-4-5
+E: HCP 21, Shape 3-4-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-3-4-4
+       
+       ♠82
+       ♥94
+       ♦Q872
+       ♣KJ932
+              
+♠Q6           ♠K74
+♥A62          ♥KQ85
+♦J954         ♦AK6
+♣8765         ♣AQT
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 16:
+Spade Break: 4-1-2 (N-E-W)
+N: HCP 11, Shape 4-2-2-5
+E: HCP 20, Shape 1-4-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 2-3-4-4
+       
+       ♠Q762
+       ♥86
+       ♦Q8
+       ♣AQJ85
+              
+♠84           ♠K
+♥954          ♥AKQ2
+♦9642         ♦AKJ75
+♣K732         ♣T96
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	5	-50	+10.0	+1.0
+♥3	4	400	+0.0	+0.0
+♦T	5	-50	+10.0	+1.0
+♣4	8	-200	+12.0	+1.0
+
+----------------------------------------
+Hand 17:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 3, Shape 1-4-6-2
+E: HCP 20, Shape 3-3-2-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 11, Shape 3-2-3-5
+       
+       ♠7
+       ♥9865
+       ♦QJ8765
+       ♣86
+              
+♠642          ♠KQ8
+♥AK           ♥Q42
+♦A42          ♦K9
+♣T7532        ♣AKQJ9
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 18:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 11, Shape 1-3-3-6
+E: HCP 20, Shape 3-4-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 3-2-5-3
+       
+       ♠4
+       ♥K92
+       ♦KJ9
+       ♣A97652
+              
+♠872          ♠KQ6
+♥65           ♥AQ84
+♦Q8652        ♦A74
+♣JT3          ♣KQ8
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	7	-150	+2.0	+1.0
+♥3	7	-150	+2.0	+1.0
+♦T	7	-150	+2.0	+1.0
+♣4	7	-150	+2.0	+1.0
+
+----------------------------------------
+Hand 19:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 10, Shape 1-3-5-4
+E: HCP 21, Shape 3-4-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 3-2-4-4
+       
+       ♠Q
+       ♥986
+       ♦Q9654
+       ♣AQ92
+              
+♠872          ♠K64
+♥Q4           ♥AK52
+♦J872         ♦AK
+♣8653         ♣KJT7
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	5	-50	+0.0	+0.0
+♥3	5	-50	+0.0	+0.0
+♦T	5	-50	+0.0	+0.0
+♣4	5	-50	+0.0	+0.0
+
+----------------------------------------
+Hand 20:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 4, Shape 2-3-4-4
+E: HCP 20, Shape 2-3-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 3-3-4-3
+       
+       ♠Q2
+       ♥Q94
+       ♦9874
+       ♣9875
+              
+♠K76          ♠84
+♥K85          ♥A62
+♦KJ65         ♦AQ2
+♣T32          ♣AKQJ6
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	1	490	+0.0	+0.0
+♥3	1	490	+0.0	+0.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 21:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 9, Shape 3-2-2-6
+E: HCP 20, Shape 3-4-4-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 1-3-5-4
+       
+       ♠842
+       ♥A6
+       ♦J6
+       ♣KJ9853
+              
+♠6            ♠KQ7
+♥Q52          ♥K984
+♦K9752        ♦AQ84
+♣T762         ♣AQ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	3	430	-10.0	-1.0
+♥3	3	430	-10.0	-1.0
+♦T	3	430	-10.0	-1.0
+♣4	3	430	-10.0	-1.0
+
+----------------------------------------
+Hand 22:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 6, Shape 3-2-5-3
+E: HCP 20, Shape 3-4-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 1-3-4-5
+       
+       ♠862
+       ♥86
+       ♦K9652
+       ♣K72
+              
+♠Q            ♠K74
+♥Q52          ♥AK94
+♦QJ84         ♦A7
+♣JT986        ♣AQ53
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	1	490	-1.0	-1.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 23:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 7, Shape 2-1-7-3
+E: HCP 20, Shape 2-5-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 3-3-1-6
+       
+       ♠84
+       ♥8
+       ♦K987654
+       ♣A53
+              
+♠Q76          ♠K2
+♥A42          ♥KQ965
+♦J            ♦AQ2
+♣T98762       ♣KQJ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 24:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 2, Shape 2-3-3-5
+E: HCP 20, Shape 2-4-5-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 12, Shape 3-2-3-5
+       
+       ♠86
+       ♥965
+       ♦642
+       ♣Q9652
+              
+♠Q74          ♠K2
+♥Q8           ♥AK42
+♦KJ5          ♦AQ987
+♣KJT83        ♣A7
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	0	520	+0.0	+0.0
+♥J	1	490	+1.0	+1.0
+♥3	1	490	+1.0	+1.0
+♦T	1	490	+1.0	+1.0
+♣4	1	490	+1.0	+1.0
+
+----------------------------------------
+Hand 25:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 3, Shape 2-3-3-5
+E: HCP 21, Shape 2-5-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 3-1-6-3
+       
+       ♠K2
+       ♥952
+       ♦874
+       ♣98632
+              
+♠Q86          ♠74
+♥4            ♥AKQ86
+♦AQJ952       ♦K6
+♣JT5          ♣AKQ7
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	0	520	-2.0	-1.0
+♥3	0	520	-2.0	-1.0
+♦T	0	520	-2.0	-1.0
+♣4	0	520	-2.0	-1.0
+
+----------------------------------------
+Hand 26:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 8, Shape 2-2-6-3
+E: HCP 20, Shape 2-5-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 3-2-3-5
+       
+       ♠Q2
+       ♥64
+       ♦KQJ542
+       ♣863
+              
+♠764          ♠K8
+♥52           ♥AKQ98
+♦987          ♦A6
+♣KQJT5        ♣A972
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	2	460	-1.0	-1.0
+♦T	4	400	+1.0	+1.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 27:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 9, Shape 1-4-3-5
+E: HCP 21, Shape 3-2-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 3-3-4-3
+       
+       ♠6
+       ♥K854
+       ♦752
+       ♣AQT72
+              
+♠K72          ♠Q84
+♥962          ♥AQ
+♦J984         ♦AKQ6
+♣653          ♣KJ98
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	4	400	+1.0	+1.0
+♥3	4	400	+1.0	+1.0
+♦T	4	400	+1.0	+1.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 28:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 7, Shape 2-2-4-5
+E: HCP 20, Shape 3-5-3-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-2-4-5
+       
+       ♠74
+       ♥86
+       ♦Q652
+       ♣KQ986
+              
+♠Q6           ♠K82
+♥42           ♥AKQ95
+♦KJ74         ♦A98
+♣JT753        ♣A2
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	2	460	-1.0	-1.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 29:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 9, Shape 2-4-3-4
+E: HCP 20, Shape 2-3-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 3-2-3-5
+       
+       ♠K7
+       ♥KQ85
+       ♦J92
+       ♣9873
+              
+♠842          ♠Q6
+♥92           ♥A64
+♦764          ♦AKQ85
+♣KQ652        ♣AJT
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	2	460	-11.0	-1.0
+♥3	2	460	-11.0	-1.0
+♦T	2	460	-11.0	-1.0
+♣4	2	460	-11.0	-1.0
+
+----------------------------------------
+Hand 30:
+Spade Break: 1-4-2 (N-E-W)
+N: HCP 5, Shape 1-5-4-3
+E: HCP 20, Shape 4-2-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 2-2-4-5
+       
+       ♠6
+       ♥Q9842
+       ♦K742
+       ♣876
+              
+♠87           ♠KQ42
+♥K6           ♥A5
+♦J865         ♦AQ9
+♣KQT95        ♣AJ32
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 31:
+Spade Break: 1-4-2 (N-E-W)
+N: HCP 4, Shape 1-4-4-4
+E: HCP 21, Shape 4-3-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 2-2-4-5
+       
+       ♠2
+       ♥8542
+       ♦A652
+       ♣T752
+              
+♠87           ♠KQ64
+♥A9           ♥KQ6
+♦KJ87         ♦Q94
+♣J9863        ♣AKQ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	2	460	+1.0	+1.0
+♥3	2	460	+1.0	+1.0
+♦T	2	460	+1.0	+1.0
+♣4	2	460	+1.0	+1.0
+
+----------------------------------------
+Hand 32:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 10, Shape 3-2-4-4
+E: HCP 20, Shape 3-4-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 1-3-4-5
+       
+       ♠Q84
+       ♥85
+       ♦QJ86
+       ♣KQ82
+              
+♠6            ♠K72
+♥962          ♥AKQ4
+♦7542         ♦AK9
+♣AT765        ♣J93
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	6	-100	+0.0	+0.0
+♥3	6	-100	+0.0	+0.0
+♦T	6	-100	+0.0	+0.0
+♣4	6	-100	+0.0	+0.0
+
+----------------------------------------
+Hand 33:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 7, Shape 3-2-2-6
+E: HCP 21, Shape 2-4-5-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 2-3-4-4
+       
+       ♠842
+       ♥64
+       ♦Q5
+       ♣KQ6532
+              
+♠K6           ♠Q7
+♥Q98          ♥AK52
+♦8764         ♦AKJ92
+♣JT97         ♣A8
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	2	460	-1.0	-1.0
+♥3	2	460	-1.0	-1.0
+♦T	2	460	-1.0	-1.0
+♣4	2	460	-1.0	-1.0
+
+----------------------------------------
+Hand 34:
+Spade Break: 4-1-2 (N-E-W)
+N: HCP 10, Shape 4-2-4-3
+E: HCP 21, Shape 1-4-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 2-3-4-4
+       
+       ♠Q842
+       ♥Q5
+       ♦K874
+       ♣QJ5
+              
+♠76           ♠K
+♥642          ♥AK98
+♦9652         ♦AQJ
+♣KT83         ♣A9762
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	7	-150	+2.0	+1.0
+♥3	7	-150	+2.0	+1.0
+♦T	6	-100	+0.0	+0.0
+♣4	7	-150	+2.0	+1.0
+
+----------------------------------------
+Hand 35:
+Spade Break: 4-1-2 (N-E-W)
+N: HCP 6, Shape 4-1-3-5
+E: HCP 21, Shape 1-5-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-3-5-3
+       
+       ♠7642
+       ♥K
+       ♦J94
+       ♣Q9863
+              
+♠Q8           ♠K
+♥Q96          ♥A8542
+♦Q8652        ♦AK7
+♣JT2          ♣AK75
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	1	490	-1.0	-1.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 36:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 4, Shape 1-3-4-5
+E: HCP 21, Shape 3-3-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 3-3-4-3
+       
+       ♠Q
+       ♥942
+       ♦Q875
+       ♣98652
+              
+♠864          ♠K72
+♥K86          ♥AQ5
+♦AJ42         ♦K96
+♣JT7          ♣AKQ3
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	3	430	+1.0	+1.0
+♥3	3	430	+1.0	+1.0
+♦T	3	430	+1.0	+1.0
+♣4	3	430	+1.0	+1.0
+
+----------------------------------------
+Hand 37:
+Spade Break: 1-2-4 (N-E-W)
+N: HCP 9, Shape 1-2-5-5
+E: HCP 21, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 4-3-3-3
+       
+       ♠Q
+       ♥54
+       ♦KQJ96
+       ♣JT862
+              
+♠7642         ♠K8
+♥862          ♥AKQ9
+♦852          ♦A74
+♣A93          ♣KQ75
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	5	-50	+0.0	+0.0
+♥3	5	-50	+0.0	+0.0
+♦T	6	-100	+2.0	+1.0
+♣4	5	-50	+0.0	+0.0
+
+----------------------------------------
+Hand 38:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 2, Shape 3-4-5-1
+E: HCP 21, Shape 3-2-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 11, Shape 1-3-3-6
+       
+       ♠876
+       ♥8542
+       ♦Q9762
+       ♣2
+              
+♠2            ♠KQ4
+♥AQ6          ♥K9
+♦J84          ♦AK5
+♣A98653       ♣KQJT7
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	1	490	+0.0	+0.0
+♥3	1	490	+0.0	+0.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 39:
+Spade Break: 1-4-2 (N-E-W)
+N: HCP 5, Shape 1-3-5-4
+E: HCP 21, Shape 4-4-1-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 2-2-5-4
+       
+       ♠6
+       ♥865
+       ♦Q9654
+       ♣KT62
+              
+♠Q8           ♠K742
+♥Q2           ♥AK94
+♦KJ872        ♦A
+♣9875         ♣AQJ3
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 40:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 5, Shape 2-2-3-6
+E: HCP 20, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 3-3-5-2
+       
+       ♠72
+       ♥85
+       ♦J64
+       ♣KJT965
+              
+♠Q64          ♠K8
+♥K64          ♥AQ92
+♦Q9875        ♦AK2
+♣Q3           ♣A872
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 41:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 9, Shape 2-3-5-3
+E: HCP 20, Shape 3-4-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 2-2-3-6
+       
+       ♠86
+       ♥654
+       ♦AQJ92
+       ♣Q93
+              
+♠74           ♠KQ2
+♥98           ♥AKQ2
+♦764          ♦K85
+♣AJT876       ♣K52
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	4	400	-10.0	-1.0
+♥3	2	460	-11.0	-1.0
+♦T	5	-50	+0.0	+0.0
+♣4	3	430	-10.0	-1.0
+
+----------------------------------------
+Hand 42:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 4, Shape 2-2-5-4
+E: HCP 21, Shape 3-4-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 2-3-3-5
+       
+       ♠82
+       ♥65
+       ♦87642
+       ♣AT62
+              
+♠Q4           ♠K76
+♥982          ♥AKQ4
+♦Q95          ♦AKJ
+♣KQ983        ♣J75
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	2	460	-1.0	-1.0
+♥3	2	460	-1.0	-1.0
+♦T	2	460	-1.0	-1.0
+♣4	2	460	-1.0	-1.0
+
+----------------------------------------
+Hand 43:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 4, Shape 2-4-1-6
+E: HCP 20, Shape 3-3-5-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 2-2-5-4
+       
+       ♠87
+       ♥9652
+       ♦2
+       ♣KJ7653
+              
+♠Q2           ♠K64
+♥Q8           ♥AK4
+♦KJ974        ♦AQ865
+♣QT98         ♣A2
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	2	460	-1.0	-1.0
+♥3	2	460	-1.0	-1.0
+♦T	2	460	-1.0	-1.0
+♣4	2	460	-1.0	-1.0
+
+----------------------------------------
+Hand 44:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 6, Shape 2-4-2-5
+E: HCP 21, Shape 3-3-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-2-5-4
+       
+       ♠64
+       ♥9852
+       ♦84
+       ♣KQJ73
+              
+♠K2           ♠Q87
+♥K4           ♥AQ6
+♦J9762        ♦AKQ5
+♣T982         ♣A65
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 45:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 5, Shape 1-5-2-5
+E: HCP 21, Shape 3-2-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 3-2-6-2
+       
+       ♠2
+       ♥K9542
+       ♦J4
+       ♣J7632
+              
+♠Q86          ♠K74
+♥A6           ♥Q8
+♦987652       ♦AKQ
+♣Q5           ♣AKT98
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	0	520	+0.0	+0.0
+♥J	1	490	+1.0	+1.0
+♥3	1	490	+1.0	+1.0
+♦T	1	490	+1.0	+1.0
+♣4	1	490	+1.0	+1.0
+
+----------------------------------------
+Hand 46:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 3, Shape 2-2-3-6
+E: HCP 20, Shape 2-3-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 11, Shape 3-4-3-3
+       
+       ♠82
+       ♥85
+       ♦Q75
+       ♣J87652
+              
+♠Q76          ♠K4
+♥Q642         ♥AK9
+♦J92          ♦AK864
+♣AQT          ♣K93
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	0	520	+0.0	+0.0
+♥J	1	490	+1.0	+1.0
+♥3	1	490	+1.0	+1.0
+♦T	1	490	+1.0	+1.0
+♣4	1	490	+1.0	+1.0
+
+----------------------------------------
+Hand 47:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 5, Shape 3-3-4-3
+E: HCP 21, Shape 2-3-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 2-3-3-5
+       
+       ♠Q76
+       ♥862
+       ♦8765
+       ♣KT9
+              
+♠82           ♠K4
+♥A54          ♥KQ9
+♦Q92          ♦AKJ4
+♣Q8765        ♣AJ32
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	4	400	+1.0	+1.0
+♥3	4	400	+1.0	+1.0
+♦T	4	400	+1.0	+1.0
+♣4	4	400	+1.0	+1.0
+
+----------------------------------------
+Hand 48:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 4, Shape 3-4-2-4
+E: HCP 20, Shape 3-2-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 1-3-4-5
+       
+       ♠742
+       ♥9842
+       ♦K7
+       ♣JT32
+              
+♠K            ♠Q86
+♥K65          ♥AQ
+♦J986         ♦AQ542
+♣K9765        ♣AQ8
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	0	520	+0.0	+0.0
+♥J	1	490	+1.0	+1.0
+♥3	1	490	+1.0	+1.0
+♦T	1	490	+1.0	+1.0
+♣4	1	490	+1.0	+1.0
+
+----------------------------------------
+Hand 49:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 9, Shape 2-3-5-3
+E: HCP 20, Shape 2-4-2-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 3-2-4-4
+       
+       ♠42
+       ♥A96
+       ♦J8654
+       ♣A92
+              
+♠Q76          ♠K8
+♥85           ♥KQ42
+♦Q972         ♦AK
+♣JT87         ♣KQ653
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	4	400	+1.0	+1.0
+♣4	4	400	+1.0	+1.0
+
+----------------------------------------
+Hand 50:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 5, Shape 3-2-5-3
+E: HCP 20, Shape 3-4-1-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 1-3-5-4
+       
+       ♠642
+       ♥98
+       ♦KQ762
+       ♣T92
+              
+♠7            ♠KQ8
+♥KQ5          ♥A642
+♦J9854        ♦A
+♣QJ63         ♣AK875
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	3	430	+1.0	+1.0
+♥3	3	430	+1.0	+1.0
+♦T	3	430	+1.0	+1.0
+♣4	3	430	+1.0	+1.0
+
+----------------------------------------
+Hand 51:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 5, Shape 3-3-4-3
+E: HCP 21, Shape 2-4-2-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 2-2-5-4
+       
+       ♠872
+       ♥A62
+       ♦J964
+       ♣985
+              
+♠Q4           ♠K6
+♥95           ♥KQ84
+♦KQ752        ♦A8
+♣JT76         ♣AKQ32
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	3	430	-1.0	-1.0
+♥3	2	460	-2.0	-1.0
+♦T	3	430	-1.0	-1.0
+♣4	3	430	-1.0	-1.0
+
+----------------------------------------
+Hand 52:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 8, Shape 2-5-2-4
+E: HCP 20, Shape 2-2-4-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 3-2-5-3
+       
+       ♠76
+       ♥KQ542
+       ♦64
+       ♣KT65
+              
+♠K84          ♠Q2
+♥98           ♥A6
+♦QJ852        ♦AK97
+♣832          ♣AQJ97
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	4	400	+3.0	+1.0
+♥3	4	400	+3.0	+1.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 53:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 6, Shape 2-3-4-4
+E: HCP 20, Shape 2-3-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 3-3-2-5
+       
+       ♠86
+       ♥965
+       ♦KJ84
+       ♣QT63
+              
+♠K74          ♠Q2
+♥842          ♥AKQ
+♦95           ♦AQ762
+♣AJ975        ♣K82
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 54:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 6, Shape 2-4-3-4
+E: HCP 21, Shape 3-2-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-3-4-4
+       
+       ♠62
+       ♥9642
+       ♦J82
+       ♣KQ98
+              
+♠87           ♠KQ4
+♥A85          ♥KQ
+♦Q964         ♦AK75
+♣J652         ♣AT73
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 55:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 8, Shape 3-2-4-4
+E: HCP 20, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 2-3-4-4
+       
+       ♠862
+       ♥K4
+       ♦K875
+       ♣Q987
+              
+♠Q4           ♠K7
+♥Q95          ♥A862
+♦Q964         ♦AJ2
+♣T652         ♣AKJ3
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	3	430	-11.0	-1.0
+♥3	3	430	-11.0	-1.0
+♦T	4	400	-11.0	-1.0
+♣4	4	400	-11.0	-1.0
+
+----------------------------------------
+Hand 56:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 4, Shape 2-2-6-3
+E: HCP 20, Shape 3-4-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 2-3-3-5
+       
+       ♠62
+       ♥54
+       ♦KJ7642
+       ♣876
+              
+♠KQ           ♠874
+♥962          ♥AKQ8
+♦Q95          ♦A8
+♣QJT53        ♣AK92
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	2	460	-1.0	-1.0
+♥3	2	460	-1.0	-1.0
+♦T	2	460	-1.0	-1.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 57:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 9, Shape 1-5-1-6
+E: HCP 20, Shape 3-3-5-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 3-1-5-4
+       
+       ♠8
+       ♥KQ962
+       ♦8
+       ♣A98652
+              
+♠762          ♠KQ4
+♥8            ♥A54
+♦QJ765        ♦AK942
+♣QT73         ♣KJ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	6	-100	+11.0	+1.0
+♥3	6	-100	+11.0	+1.0
+♦T	4	400	+1.0	+1.0
+♣4	4	400	+1.0	+1.0
+
+----------------------------------------
+Hand 58:
+Spade Break: 2-4-1 (N-E-W)
+N: HCP 9, Shape 2-3-4-4
+E: HCP 21, Shape 4-3-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 1-3-5-4
+       
+       ♠74
+       ♥Q85
+       ♦AJ62
+       ♣Q865
+              
+♠6            ♠KQ82
+♥964          ♥AK2
+♦K8754        ♦Q9
+♣JT92         ♣AK73
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	5	-50	+0.0	+0.0
+♥3	5	-50	+0.0	+0.0
+♦T	6	-100	+2.0	+1.0
+♣4	5	-50	+0.0	+0.0
+
+----------------------------------------
+Hand 59:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 4, Shape 1-3-5-4
+E: HCP 20, Shape 3-3-2-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 3-3-4-3
+       
+       ♠8
+       ♥862
+       ♦A8752
+       ♣T963
+              
+♠K64          ♠Q72
+♥Q54          ♥AK9
+♦Q964         ♦KJ
+♣K52          ♣AQJ87
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	2	460	+1.0	+1.0
+♥3	2	460	+1.0	+1.0
+♦T	2	460	+1.0	+1.0
+♣4	2	460	+1.0	+1.0
+
+----------------------------------------
+Hand 60:
+Spade Break: 4-1-2 (N-E-W)
+N: HCP 3, Shape 4-1-3-5
+E: HCP 21, Shape 1-5-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 2-3-4-4
+       
+       ♠8742
+       ♥5
+       ♦J92
+       ♣Q6532
+              
+♠Q6           ♠K
+♥862          ♥AKQ94
+♦K865         ♦AQ74
+♣AJ97         ♣KT8
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	0	520	+0.0	+0.0
+♥J	1	490	+1.0	+1.0
+♥3	0	520	+0.0	+0.0
+♦T	1	490	+1.0	+1.0
+♣4	1	490	+1.0	+1.0
+
+----------------------------------------
+Hand 61:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 4, Shape 2-4-2-5
+E: HCP 20, Shape 2-2-5-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 10, Shape 3-3-4-3
+       
+       ♠74
+       ♥K654
+       ♦J2
+       ♣T7532
+              
+♠Q82          ♠K6
+♥982          ♥AQ
+♦KQ65         ♦A9874
+♣K96          ♣AQJ8
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	1	490	+0.0	+0.0
+♥3	1	490	+0.0	+0.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 62:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 7, Shape 2-3-4-4
+E: HCP 21, Shape 3-3-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 2-3-3-5
+       
+       ♠Q2
+       ♥962
+       ♦Q954
+       ♣K876
+              
+♠86           ♠K74
+♥854          ♥AKQ
+♦J86          ♦AK72
+♣AJ952        ♣QT3
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	7	-150	+2.0	+1.0
+♥3	7	-150	+2.0	+1.0
+♦T	5	-50	-2.0	-1.0
+♣4	7	-150	+2.0	+1.0
+
+----------------------------------------
+Hand 63:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 8, Shape 2-2-5-4
+E: HCP 20, Shape 3-4-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 2-3-3-5
+       
+       ♠Q4
+       ♥62
+       ♦KQ942
+       ♣J763
+              
+♠87           ♠K62
+♥Q54          ♥AK98
+♦J86          ♦A75
+♣KT952        ♣AQ8
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	5	-50	+0.0	+0.0
+♥3	5	-50	+0.0	+0.0
+♦T	6	-100	+2.0	+1.0
+♣4	4	400	-10.0	-1.0
+
+----------------------------------------
+Hand 64:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 8, Shape 2-4-2-5
+E: HCP 20, Shape 3-2-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 2-3-4-4
+       
+       ♠64
+       ♥9852
+       ♦J6
+       ♣AQJ82
+              
+♠72           ♠KQ8
+♥A64          ♥KQ
+♦Q542         ♦AK987
+♣T976         ♣K53
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	4	400	+1.0	+1.0
+♥3	4	400	+1.0	+1.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 65:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 11, Shape 2-4-2-5
+E: HCP 20, Shape 2-3-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 3-2-5-3
+       
+       ♠K6
+       ♥Q954
+       ♦42
+       ♣KQJ73
+              
+♠Q42          ♠87
+♥86           ♥AK2
+♦J9876        ♦AKQ5
+♣965          ♣AT82
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	5	-50	+0.0	+0.0
+♥3	5	-50	+0.0	+0.0
+♦T	4	400	-10.0	-1.0
+♣4	4	400	-10.0	-1.0
+
+----------------------------------------
+Hand 66:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 9, Shape 2-3-3-5
+E: HCP 21, Shape 2-3-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 3-3-5-2
+       
+       ♠Q2
+       ♥A86
+       ♦J94
+       ♣QT532
+              
+♠764          ♠K8
+♥542          ♥KQ9
+♦A7652        ♦KQ8
+♣97           ♣AKJ86
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	7	-150	+11.0	+1.0
+♥3	7	-150	+11.0	+1.0
+♦T	5	-50	+10.0	+1.0
+♣4	4	400	+0.0	+0.0
+
+----------------------------------------
+Hand 67:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 8, Shape 1-4-3-5
+E: HCP 21, Shape 3-3-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 3-2-4-4
+       
+       ♠8
+       ♥Q962
+       ♦752
+       ♣AQ975
+              
+♠K62          ♠Q74
+♥54           ♥AK8
+♦J964         ♦AKQ8
+♣J863         ♣KT2
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	4	400	+1.0	+1.0
+♥3	4	400	+1.0	+1.0
+♦T	4	400	+1.0	+1.0
+♣4	4	400	+1.0	+1.0
+
+----------------------------------------
+Hand 68:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 5, Shape 1-4-3-5
+E: HCP 21, Shape 3-3-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 3-2-5-3
+       
+       ♠Q
+       ♥9864
+       ♦875
+       ♣QJ973
+              
+♠642          ♠K87
+♥52           ♥AKQ
+♦AJ642        ♦KQ9
+♣K82          ♣AT65
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	2	460	+1.0	+1.0
+♥3	2	460	+1.0	+1.0
+♦T	2	460	+1.0	+1.0
+♣4	2	460	+1.0	+1.0
+
+----------------------------------------
+Hand 69:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 9, Shape 1-5-3-4
+E: HCP 20, Shape 3-2-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 3-2-4-4
+       
+       ♠8
+       ♥A9862
+       ♦K72
+       ♣Q753
+              
+♠K72          ♠Q64
+♥54           ♥KQ
+♦J986         ♦AQ54
+♣J862         ♣AKT9
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	5	-50	+11.0	+1.0
+♥3	5	-50	+11.0	+1.0
+♦T	3	430	+1.0	+1.0
+♣4	3	430	+1.0	+1.0
+
+----------------------------------------
+Hand 70:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 3, Shape 2-2-4-5
+E: HCP 20, Shape 3-4-4-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 11, Shape 2-3-3-5
+       
+       ♠86
+       ♥82
+       ♦J864
+       ♣Q9765
+              
+♠74           ♠KQ2
+♥K94          ♥AQ65
+♦972          ♦AKQ5
+♣AKJT2        ♣83
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	2	460	-1.0	-1.0
+♥3	2	460	-1.0	-1.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 71:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 4, Shape 2-4-4-3
+E: HCP 21, Shape 2-2-4-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 3-3-3-4
+       
+       ♠82
+       ♥9842
+       ♦Q986
+       ♣Q62
+              
+♠Q76          ♠K4
+♥Q65          ♥AK
+♦J72          ♦AK54
+♣AT83         ♣KJ975
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	2	460	+1.0	+1.0
+♥3	2	460	+1.0	+1.0
+♦T	2	460	+1.0	+1.0
+♣4	2	460	+1.0	+1.0
+
+----------------------------------------
+Hand 72:
+Spade Break: 1-4-2 (N-E-W)
+N: HCP 6, Shape 1-4-4-4
+E: HCP 21, Shape 4-3-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-2-4-5
+       
+       ♠6
+       ♥Q654
+       ♦A872
+       ♣9532
+              
+♠84           ♠KQ72
+♥98           ♥AK2
+♦J954         ♦KQ6
+♣KQJT7        ♣A86
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	3	430	+1.0	+1.0
+♥3	3	430	+1.0	+1.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 73:
+Spade Break: 3-1-3 (N-E-W)
+N: HCP 8, Shape 3-4-2-4
+E: HCP 20, Shape 1-4-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 3-1-4-5
+       
+       ♠Q64
+       ♥9654
+       ♦K4
+       ♣QJ63
+              
+♠872          ♠K
+♥Q            ♥AK82
+♦J965         ♦AQ872
+♣KT975        ♣A82
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	3	430	+1.0	+1.0
+♥3	3	430	+1.0	+1.0
+♦T	3	430	+1.0	+1.0
+♣4	3	430	+1.0	+1.0
+
+----------------------------------------
+Hand 74:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 5, Shape 2-3-3-5
+E: HCP 20, Shape 2-3-5-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 3-3-3-4
+       
+       ♠64
+       ♥862
+       ♦875
+       ♣AJT96
+              
+♠872          ♠KQ
+♥Q95          ♥AK4
+♦KJ9          ♦AQ642
+♣K875         ♣Q32
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	3	430	-1.0	-1.0
+♥3	3	430	-1.0	-1.0
+♦T	3	430	-1.0	-1.0
+♣4	3	430	-1.0	-1.0
+
+----------------------------------------
+Hand 75:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 6, Shape 2-5-3-3
+E: HCP 20, Shape 3-2-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 2-2-5-4
+       
+       ♠87
+       ♥KQ854
+       ♦J86
+       ♣T53
+              
+♠42           ♠KQ6
+♥92           ♥A6
+♦KQ952        ♦A74
+♣QJ92         ♣AK876
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	2	460	+1.0	+1.0
+♥3	2	460	+1.0	+1.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 76:
+Spade Break: 0-4-3 (N-E-W)
+N: HCP 8, Shape 0-5-3-5
+E: HCP 21, Shape 4-3-4-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 3-1-4-5
+       
+       ♠
+       ♥98652
+       ♦K64
+       ♣AJ986
+              
+♠862          ♠KQ74
+♥4            ♥AKQ
+♦Q982         ♦AJ75
+♣K7532        ♣QT
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	5	-50	+10.0	+1.0
+♥3	5	-50	+10.0	+1.0
+♦T	4	400	+0.0	+0.0
+♣4	4	400	+0.0	+0.0
+
+----------------------------------------
+Hand 77:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 10, Shape 3-3-4-3
+E: HCP 20, Shape 3-3-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 1-3-4-5
+       
+       ♠Q74
+       ♥K95
+       ♦A965
+       ♣J76
+              
+♠6            ♠K82
+♥862          ♥AQ4
+♦Q872         ♦KJ4
+♣QT952        ♣AK83
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	6	-100	+2.0	+1.0
+♥3	6	-100	+2.0	+1.0
+♦T	7	-150	+3.0	+1.0
+♣4	6	-100	+2.0	+1.0
+
+----------------------------------------
+Hand 78:
+Spade Break: 3-3-1 (N-E-W)
+N: HCP 10, Shape 3-4-2-4
+E: HCP 20, Shape 3-2-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 1-3-6-3
+       
+       ♠Q42
+       ♥9652
+       ♦A7
+       ♣A853
+              
+♠7            ♠K86
+♥Q84          ♥AK
+♦J96542       ♦KQ8
+♣J72          ♣KQT96
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	7	-150	+0.0	+0.0
+♥J	8	-200	+2.0	+1.0
+♥3	8	-200	+2.0	+1.0
+♦T	8	-200	+2.0	+1.0
+♣4	8	-200	+2.0	+1.0
+
+----------------------------------------
+Hand 79:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 6, Shape 1-4-4-4
+E: HCP 21, Shape 3-4-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 3-1-4-5
+       
+       ♠4
+       ♥Q952
+       ♦9642
+       ♣A632
+              
+♠K86          ♠Q72
+♥6            ♥AK84
+♦J875         ♦AKQ
+♣QJT87        ♣K95
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	4	400	+2.0	+1.0
+♥3	4	400	+2.0	+1.0
+♦T	3	430	+1.0	+1.0
+♣4	3	430	+1.0	+1.0
+
+----------------------------------------
+Hand 80:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 5, Shape 2-2-4-5
+E: HCP 20, Shape 3-5-2-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 2-2-5-4
+       
+       ♠86
+       ♥62
+       ♦A764
+       ♣JT875
+              
+♠Q4           ♠K72
+♥98           ♥AKQ54
+♦KQ982        ♦J5
+♣Q963         ♣AK2
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	2	460	-1.0	-1.0
+♥3	2	460	-1.0	-1.0
+♦T	2	460	-1.0	-1.0
+♣4	2	460	-1.0	-1.0
+
+----------------------------------------
+Hand 81:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 8, Shape 2-3-4-4
+E: HCP 20, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 3-2-4-4
+       
+       ♠62
+       ♥Q54
+       ♦QJ94
+       ♣KT82
+              
+♠K87          ♠Q4
+♥86           ♥AK92
+♦K872         ♦A65
+♣9653         ♣AQJ7
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	4	400	+1.0	+1.0
+♥3	4	400	+1.0	+1.0
+♦T	4	400	+1.0	+1.0
+♣4	4	400	+1.0	+1.0
+
+----------------------------------------
+Hand 82:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 6, Shape 2-3-5-3
+E: HCP 20, Shape 2-4-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 3-2-2-6
+       
+       ♠86
+       ♥KQ8
+       ♦J9865
+       ♣T62
+              
+♠742          ♠KQ
+♥95           ♥A642
+♦Q2           ♦AK74
+♣AQ8753       ♣KJ9
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	3	430	+1.0	+1.0
+♥3	3	430	+1.0	+1.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 83:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 9, Shape 1-3-5-4
+E: HCP 21, Shape 3-4-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 3-2-4-4
+       
+       ♠6
+       ♥852
+       ♦AKQ76
+       ♣T973
+              
+♠K42          ♠Q87
+♥64           ♥AKQ9
+♦9542         ♦J8
+♣J862         ♣AKQ5
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	4	400	+0.0	+0.0
+♥3	4	400	+0.0	+0.0
+♦T	5	-50	+10.0	+1.0
+♣4	4	400	+0.0	+0.0
+
+----------------------------------------
+Hand 84:
+Spade Break: 1-4-2 (N-E-W)
+N: HCP 8, Shape 1-3-4-5
+E: HCP 20, Shape 4-3-3-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 2-3-4-4
+       
+       ♠K
+       ♥986
+       ♦KJ72
+       ♣JT865
+              
+♠76           ♠Q842
+♥Q42          ♥AK5
+♦A654         ♦Q98
+♣9732         ♣AKQ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	5	-50	+0.0	+0.0
+♥3	5	-50	+0.0	+0.0
+♦T	4	400	-10.0	-1.0
+♣4	5	-50	+0.0	+0.0
+
+----------------------------------------
+Hand 85:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 2, Shape 2-3-4-4
+E: HCP 21, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 11, Shape 3-2-4-4
+       
+       ♠84
+       ♥652
+       ♦Q985
+       ♣T653
+              
+♠K76          ♠Q2
+♥K4           ♥AQ98
+♦A762         ♦KJ4
+♣J982         ♣AKQ7
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	1	490	+0.0	+0.0
+♥3	1	490	+0.0	+0.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 86:
+Spade Break: 1-3-3 (N-E-W)
+N: HCP 10, Shape 1-4-4-4
+E: HCP 20, Shape 3-3-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 3-2-4-4
+       
+       ♠4
+       ♥AQ94
+       ♦Q875
+       ♣Q873
+              
+♠Q82          ♠K76
+♥62           ♥K85
+♦J964         ♦AK2
+♣J962         ♣AKT5
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	4	400	+0.0	+0.0
+♥3	4	400	+0.0	+0.0
+♦T	4	400	+0.0	+0.0
+♣4	4	400	+0.0	+0.0
+
+----------------------------------------
+Hand 87:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 10, Shape 2-3-5-3
+E: HCP 21, Shape 3-3-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 2-3-2-6
+       
+       ♠Q2
+       ♥KQ9
+       ♦QJ654
+       ♣972
+              
+♠74           ♠K86
+♥642          ♥A85
+♦98           ♦AK72
+♣KT8653       ♣AQJ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	4	400	+1.0	+1.0
+♥3	4	400	+1.0	+1.0
+♦T	4	400	+1.0	+1.0
+♣4	4	400	+1.0	+1.0
+
+----------------------------------------
+Hand 88:
+Spade Break: 3-1-3 (N-E-W)
+N: HCP 7, Shape 3-3-5-2
+E: HCP 20, Shape 1-4-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 3-2-2-6
+       
+       ♠872
+       ♥Q54
+       ♦KJ654
+       ♣J8
+              
+♠Q64          ♠K
+♥98           ♥AK62
+♦Q9           ♦A872
+♣KT9732       ♣AQ65
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	3	430	+1.0	+1.0
+♥3	3	430	+1.0	+1.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 89:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 7, Shape 2-5-2-4
+E: HCP 20, Shape 3-1-4-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-3-5-3
+       
+       ♠87
+       ♥98642
+       ♦92
+       ♣AQJ2
+              
+♠62           ♠KQ4
+♥KQ5          ♥A
+♦Q8764        ♦AKJ5
+♣953          ♣KT876
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 90:
+Spade Break: 4-2-1 (N-E-W)
+N: HCP 7, Shape 4-2-4-3
+E: HCP 21, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 1-3-4-5
+       
+       ♠Q864
+       ♥64
+       ♦Q875
+       ♣K93
+              
+♠K            ♠72
+♥Q95          ♥AK82
+♦J962         ♦AK4
+♣T7652        ♣AQJ8
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	1	490	+0.0	+0.0
+♥3	1	490	+0.0	+0.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 91:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 10, Shape 2-4-3-4
+E: HCP 21, Shape 2-2-5-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 3, Shape 3-3-3-4
+       
+       ♠64
+       ♥AQ52
+       ♦J84
+       ♣K987
+              
+♠Q72          ♠K8
+♥984          ♥K6
+♦976          ♦AKQ52
+♣J532         ♣AQT6
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	4	400	+1.0	+1.0
+♥3	4	400	+1.0	+1.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 92:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 7, Shape 2-3-2-6
+E: HCP 20, Shape 2-4-4-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 3-2-5-3
+       
+       ♠82
+       ♥964
+       ♦K2
+       ♣AT9653
+              
+♠Q64          ♠K7
+♥Q2           ♥AK85
+♦J9765        ♦AQ84
+♣Q87          ♣KJ2
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	2	460	+0.0	+0.0
+♥J	2	460	+0.0	+0.0
+♥3	2	460	+0.0	+0.0
+♦T	2	460	+0.0	+0.0
+♣4	2	460	+0.0	+0.0
+
+----------------------------------------
+Hand 93:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 10, Shape 2-3-4-4
+E: HCP 20, Shape 3-4-2-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 4, Shape 2-2-5-4
+       
+       ♠42
+       ♥K86
+       ♦A872
+       ♣K532
+              
+♠86           ♠KQ7
+♥42           ♥AQ95
+♦QJ654        ♦K9
+♣JT87         ♣AQ96
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	5	-50	+0.0	+0.0
+♥J	5	-50	+0.0	+0.0
+♥3	5	-50	+0.0	+0.0
+♦T	5	-50	+0.0	+0.0
+♣4	5	-50	+0.0	+0.0
+
+----------------------------------------
+Hand 94:
+Spade Break: 1-5-1 (N-E-W)
+N: HCP 2, Shape 1-3-3-6
+E: HCP 21, Shape 5-3-2-3
+S: HCP 6, Shape 6-4-2-1
+W: HCP 11, Shape 1-3-6-3
+       
+       ♠2
+       ♥Q98
+       ♦974
+       ♣T98762
+              
+♠8            ♠KQ764
+♥K54          ♥A62
+♦AQJ862       ♦K5
+♣J53          ♣AKQ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	1	490	+0.0	+0.0
+♥J	1	490	+0.0	+0.0
+♥3	1	490	+0.0	+0.0
+♦T	1	490	+0.0	+0.0
+♣4	1	490	+0.0	+0.0
+
+----------------------------------------
+Hand 95:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 8, Shape 2-3-6-2
+E: HCP 20, Shape 2-3-3-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 6, Shape 3-3-2-5
+       
+       ♠64
+       ♥K84
+       ♦K98752
+       ♣Q2
+              
+♠872          ♠KQ
+♥Q62          ♥A95
+♦64           ♦AQJ
+♣AT763        ♣KJ985
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	2	460	-1.0	-1.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 96:
+Spade Break: 2-3-2 (N-E-W)
+N: HCP 6, Shape 2-3-4-4
+E: HCP 20, Shape 3-3-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 2-3-4-4
+       
+       ♠K2
+       ♥964
+       ♦QJ82
+       ♣8753
+              
+♠84           ♠Q76
+♥KQ8          ♥A52
+♦K754         ♦A96
+♣T962         ♣AKQJ
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	6	-100	+0.0	+0.0
+♥J	4	400	-11.0	-1.0
+♥3	4	400	-11.0	-1.0
+♦T	4	400	-11.0	-1.0
+♣4	4	400	-11.0	-1.0
+
+----------------------------------------
+Hand 97:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 7, Shape 3-5-3-2
+E: HCP 20, Shape 2-2-4-5
+S: HCP 6, Shape 6-4-2-1
+W: HCP 7, Shape 2-2-4-5
+       
+       ♠876
+       ♥AQ652
+       ♦J95
+       ♣T7
+              
+♠42           ♠KQ
+♥84           ♥K9
+♦KQ87         ♦A642
+♣Q9865        ♣AKJ32
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	3	430	+0.0	+0.0
+♥3	3	430	+0.0	+0.0
+♦T	3	430	+0.0	+0.0
+♣4	3	430	+0.0	+0.0
+
+----------------------------------------
+Hand 98:
+Spade Break: 3-2-2 (N-E-W)
+N: HCP 4, Shape 3-2-4-4
+E: HCP 21, Shape 2-4-5-2
+S: HCP 6, Shape 6-4-2-1
+W: HCP 9, Shape 2-3-2-6
+       
+       ♠764
+       ♥84
+       ♦J654
+       ♣QJT3
+              
+♠82           ♠KQ
+♥KQ9          ♥A652
+♦72           ♦AKQ98
+♣A87652       ♣K9
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	3	430	+0.0	+0.0
+♥J	2	460	-1.0	-1.0
+♥3	2	460	-1.0	-1.0
+♦T	1	490	-2.0	-1.0
+♣4	2	460	-1.0	-1.0
+
+----------------------------------------
+Hand 99:
+Spade Break: 4-2-1 (N-E-W)
+N: HCP 6, Shape 4-3-2-4
+E: HCP 20, Shape 2-3-4-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 8, Shape 1-3-5-4
+       
+       ♠7642
+       ♥854
+       ♦86
+       ♣AQ87
+              
+♠K            ♠Q8
+♥962          ♥AKQ
+♦KJ942        ♦AQ75
+♣J932         ♣KT65
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	4	400	+0.0	+0.0
+♥J	2	460	-2.0	-1.0
+♥3	2	460	-2.0	-1.0
+♦T	2	460	-2.0	-1.0
+♣4	2	460	-2.0	-1.0
+
+----------------------------------------
+Hand 100:
+Spade Break: 2-2-3 (N-E-W)
+N: HCP 9, Shape 2-2-4-5
+E: HCP 20, Shape 2-4-3-4
+S: HCP 6, Shape 6-4-2-1
+W: HCP 5, Shape 3-3-4-3
+       
+       ♠K7
+       ♥86
+       ♦9874
+       ♣AQT65
+              
+♠864          ♠Q2
+♥942          ♥AKQ5
+♦AJ65         ♦KQ2
+♣972          ♣KJ83
+       
+       ♠AJT953
+       ♥JT73
+       ♦T3
+       ♣4
+
+
+Leads Analysis (vs SJ):
+Lead	Tricks	Score	IMP (vs SJ)	MP (vs SJ)
+♠J	7	-150	+0.0	+0.0
+♥J	6	-100	-2.0	-1.0
+♥3	5	-50	-3.0	-1.0
+♦T	6	-100	-2.0	-1.0
+♣4	7	-150	+0.0	+0.0
+
+----------------------------------------
+
+========================================
+
+### Spade Suit Breaks (North-East-West):
+3-2-2: 565 (56.5%)
+3-3-1: 232 (23.2%)
+4-2-1: 166 (16.6%)
+4-3-0: 26 (2.6%)
+5-1-1: 7 (0.7%)
+5-2-0: 4 (0.4%)
