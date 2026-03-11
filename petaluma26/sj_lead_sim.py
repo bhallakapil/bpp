@@ -12,21 +12,8 @@ def accept(deal):
     east = deal.east
     west = deal.west
     
-    # East HCP: 20-21
-    if not (20 <= east.hcp <= 21):
-        return False
-        
-    # East Shape: Balanced or Semi-balanced with 6-card minor, no 5-4 majors, plus 2245 and 2254
-    s, h, d, c = east.shape
-    is_balanced = east.shape in balanced
-    is_6_minor_semi = (sorted(east.shape) == [2, 2, 3, 6] and (d == 6 or c == 6))
-    is_2245 = (s == 2 and h == 2 and d == 4 and c == 5)
-    is_2254 = (s == 2 and h == 2 and d == 5 and c == 4)
-    
-    if not (is_balanced or is_6_minor_semi or is_2245 or is_2254):
-        return False
-        
-    if (s == 5 and h == 4) or (s == 4 and h == 5):
+    # East: 20-21 HCP, balanced or semi-balanced
+    if not is_2nt(east):
         return False
         
     # West: 3-12 HCP

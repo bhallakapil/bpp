@@ -10,24 +10,7 @@ stats = {
 }
 
 def accept(deal):
-    n = deal.north
-    # 15-17 HCP
-    if not (15 <= n.hcp <= 17):
-        return False
-    
-    # Shape: Balanced or Semi-balanced with 6-card minor, no 5-4 majors
-    s, h, d, c = n.shape
-    # is_balanced includes 4333, 4432, 5332 in redeal
-    is_balanced = n.shape in balanced
-    is_6_minor_semi = (sorted(n.shape) == [2, 2, 3, 6] and (d == 6 or c == 6))
-    if not (is_balanced or is_6_minor_semi):
-        return False
-    if (s == 5 and h == 4) or (s == 4 and h == 5):
-        return False
-    if s >= 6 or h >= 6:
-        return False
-        
-    return True
+    return is_1nt(deal.north)
 
 def do(deal):
     n = deal.north
