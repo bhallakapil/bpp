@@ -114,10 +114,10 @@ def _solve_board(deal, strain, leader, target, sol, mode, current_trick):
 def solve(deal, strain, declarer, current_trick=()):
     """Return the number of tricks for declarer; wraps SolveBoard."""
     _check_dll("solve")
-    leader = Seat[declarer] + 1
+    leader = (Seat[declarer].value + 1) % 4
     # find one optimal card with its score, even if only one card
-    futp = _solve_board(deal, Strain[strain], leader, -1, 1, 1, current_trick)
-    best_score = len(Rank) - futp.score[0]
+    futp = _solve_board(deal, Strain[strain], Seat(leader), -1, 1, 1, current_trick)
+    best_score = 13 - futp.score[0]
     return best_score
 
 

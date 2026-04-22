@@ -1,0 +1,1166 @@
+% PBN 2.1
+% EXPORT
+%
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "46"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKJ532.865.J95.4 T7.32.K87.AKJ965 Q984.AKJ.AQT6.87 6.QT974.432.QT32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS -480"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+2S 3C 4C 5C
+5S Pass Pass Pass
+[Play "S"]
+CA C7 CT C4
+CK C8 - -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "46"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKJ532.865.J95.4 T7.32.K87.AKJ965 Q984.AKJ.AQT6.87 6.QT974.432.QT32"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+2S 3C 4S Pass
+Pass Pass
+[Play "S"]
+CA C7 CT C4
+CK C8 C3 S5
+S7 S4 S6 SA
+ST S8 H4 SK
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "47"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J7.AQ4.AK94.AJT8 K8543.KJ87.J6.Q4 AT.9532.T832.975 Q962.T6.Q75.K632"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS -300"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+1D 1S Pass 3S
+X Pass 4H Pass
+Pass Pass
+[Play "E"]
+S6 S7 SK SA
+C6 CJ CQ C5
+SQ SJ S8 ST
+D5 DA D6 D2
+D7 DK DJ D3
+DQ D4 C4 DT
+C2 C8 H7 C9
+S9 D9 S3 H2
+H6 HQ HK H3
+S2 - S4 H5
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "47"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J7.AQ4.AK94.AJT8 K8543.KJ87.J6.Q4 AT.9532.T832.975 Q962.T6.Q75.K632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3N"]
+[Result "7"]
+[Score "NS -200"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+2NT Pass 3NT Pass
+Pass Pass
+[Play "W"]
+S4 ST SQ S7
+S3 SA S2 SJ
+D6 DT D5 DA
+DJ D2 D7 DK
+H7 D3 DQ D9
+S8 H2 S6 C8
+SK H3 S9 CT
+S5 H5 C6 H4
+CQ C5 C3 -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "48"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ953..AT943.654 T62.KJT76.K62.T7 A74.9542.QJ8.AJ8 Q8.AQ83.75.KQ932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass Pass Pass 1C
+1S X 1NT 2H
+3D Pass 4S Pass
+Pass Pass
+[Play "N"]
+S2 S4 SQ SK
+S6 SA S8 S3
+ST S7 C3 SJ
+C7 CJ CQ C4
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "48"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ953..AT943.654 T62.KJT76.K62.T7 A74.9542.QJ8.AJ8 Q8.AQ83.75.KQ932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass Pass Pass 1D
+1S 2H 2S 3H
+3S Pass 4S Pass
+Pass Pass
+[Play "N"]
+HT H2 HQ S3
+S2 SA S8 S5
+S6 S4 SQ SK
+ST S7 C3 SJ
+C7 CA C2 C4
+DK DQ D5 D3
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "49"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:82.AJ9.QJ42.AJ62 AK753.85.K5.Q853 QJT9.KQ6.A9.K974 64.T7432.T8763.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3N"]
+[Result "10"]
+[Score "NS 430"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "N"]
+1D 1S 3NT Pass
+Pass Pass
+[Play "W"]
+S6 S2 SK S9
+S4 S8 S3 ST
+D3 D2 D5 DA
+DT DJ DK D9
+D6 D4 SA SJ
+D7 C2 S5 SQ
+H2 HJ H8 H6
+D8 DQ C3 C4
+H3 HA H5 HQ
+H4 H9 C5 HK
+CT C6 C8 CK
+H7 CA CQ C7
+HT CJ S7 C9
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "49"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:82.AJ9.QJ42.AJ62 AK753.85.K5.Q853 QJT9.KQ6.A9.K974 64.T7432.T8763.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3N"]
+[Result "9"]
+[Score "NS 400"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "N"]
+1D 1S 3NT Pass
+Pass Pass
+[Play "W"]
+S6 S2 SA S9
+S4 S8 S5 SQ
+CT C2 C3 CK
+D6 CA C5 C7
+D3 D2 D5 DA
+DT DQ DK D9
+H4 C6 SK ST
+- - S7 -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "50"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T532.Q84.Q43.Q53 KQ7.J.AK8.AK9876 A.T9765.9762.J42 J9864.AK32.JT5.T"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2D Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+D3 DA D6 D5
+S3 SK SA S4
+H8 HJ HT HA
+H4 S7 H9 H2
+S2 SQ H5 S6
+C3 CA C2 CT
+C5 CK C4 DT
+CQ C6 CJ S8
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "50"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T532.Q84.Q43.Q53 KQ7.J.AK8.AK9876 A.T9765.9762.J42 J9864.AK32.JT5.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+Pass 1C Pass 2D
+Pass 2NT Pass 3C
+Pass 3S Pass 3NT
+Pass 4NT Pass 5D
+Pass 6S Pass Pass
+Pass
+[Play "W"]
+H7 HA H8 HJ
+SA S4 S5 SK
+H6 HK H4 D8
+H5 S9 S2 SQ
+C4 CT C3 CA
+C2 H2 C5 CK
+CJ S8 CQ C8
+H9 H3 HQ S7
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "51"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKQ8.AT653.K3.84 T3.Q82.9.QT97532 J9752.KJ7.Q82.AJ 64.94.AJT7654.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+1NT Pass 2H Pass
+2NT Pass 4S Pass
+Pass Pass
+[Play "E"]
+H9 H3 HQ HK
+S4 SA S3 S2
+S6 SK ST S5
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "51"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKQ8.AT653.K3.84 T3.Q82.9.QT97532 J9752.KJ7.Q82.AJ 64.94.AJT7654.K6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+1C Pass 1H 2D
+2S Pass 3H Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "E"]
+DA D3 D9 D8
+D5 DK H2 D2
+C6 C4 CT CA
+H4 HA H8 H7
+- H3 HQ -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "52"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ5.9874.K73.973 83.5.QJT86542.QT Q64.AQJ63.9.KJ84 KT972.KT2.A.A652"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass 4D X Pass
+4H Pass Pass Pass
+[Play "N"]
+S8 S4 S9 SJ
+H5 HQ HK H9
+D2 D9 DA D3
+CQ CK C2 C3
+D4 HA H2 H7
+CT HJ HT H8
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "52"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ5.9874.K73.973 83.5.QJT86542.QT Q64.AQJ63.9.KJ84 KT972.KT2.A.A652"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "10"]
+[Score "NS -790"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass 3D X Pass
+3NT Pass Pass X
+Pass Pass XX Pass
+4H Pass Pass X
+Pass Pass Pass
+[Play "N"]
+S8 S4 ST SJ
+H5 HA H2 H7
+DQ HQ HK H8
+D2 D9 DA D3
+D4 HJ HT H4
+S3 SQ SK SA
+D5 S6 S2 DK
+CQ CK C6 C9
+CT CJ CA C3
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "53"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ93.A75.K2.AK92 AT8.KQT643.J7.J6 J74.92.A9654.Q83 652.J8.QT83.T754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3N"]
+[Result "7"]
+[Score "NS -200"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "N"]
+2NT Pass 3NT Pass
+Pass Pass
+[Play "E"]
+HK H2 HJ H5
+HQ H9 H8 H7
+HT D4 S5 HA
+SA - - S3
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "53"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ93.A75.K2.AK92 AT8.KQT643.J7.J6 J74.92.A9654.Q83 652.J8.QT83.T754"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3N"]
+[Result "7"]
+[Score "NS -200"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "N"]
+1C 1H 1S Pass
+2H Pass 3C Pass
+3H Pass 3NT Pass
+Pass Pass
+[Play "W"]
+HJ H5 HK H2
+H8 H7 HQ H9
+S6 HA HT D4
+C4 CA C6 C3
+C5 C2 CJ CQ
+S2 SK SA S4
+- - H6 -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "54"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ4.T874..Q96542 52.AQ65.AJ986.A7 KT98.3.Q75.KJT83 A763.KJ92.KT432."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -50"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2H Pass 3S
+Pass 3NT Pass 4C
+Pass 4NT Pass 5NT
+Pass 6D Pass 6H
+Pass Pass Pass
+[Play "W"]
+CK S3 C6 CA
+H3 HK H4 H5
+C8 H2 H7 HA
+C3 H9 C2 C7
+S8 HJ H8 H6
+D5 D2 HT D6
+CT S6 CQ HQ
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "54"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ4.T874..Q96542 52.AQ65.AJ986.A7 KT98.3.Q75.KJT83 A763.KJ92.KT432."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+Pass 1NT Pass 3D
+Pass 3S Pass 3NT
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+CT S3 C6 C7
+D7 D2 H7 DA
+D5 D3 S4 DJ
+C3 H2 C2 CA
+DQ DK SJ D9
+C8 H9 C5 S2
+H3 HK H8 H6
+CJ DT SQ D6
+S9 HJ H4 H5
+S8 SA HT S5
+- D4 C4 D8
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "55"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K963.KT87543..AT JT74.62.Q85.Q864 Q82.A.9642.K9752 A5.QJ9.AKJT73.J3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+1H Pass 1NT 2D
+2H Pass Pass Pass
+[Play "W"]
+D5 D2 DA H3
+H2 HA H9 H4
+C6 C2 C3 CA
+H6 D4 HQ HK
+C4 CK CJ CT
+C8 C5 D3 H5
+S7 SQ SA S3
+D8 D6 DJ H7
+S4 S2 S5 SK
+ST S8 D7 S6
+SJ C7 DT -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "55"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K963.KT87543..AT JT74.62.Q85.Q864 Q82.A.9642.K9752 A5.QJ9.AKJT73.J3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+1H Pass 1S 1NT
+2H Pass Pass Pass
+[Play "W"]
+SJ S2 S5 SK
+H2 HA H9 H3
+C4 C2 C3 CA
+H6 D2 HJ HK
+C6 CK CJ CT
+C8 C5 D3 H5
+S4 S8 SA S3
+- - DA -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "56"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:542..KJT9.T98653 KT9.J732.76.AKQ7 A86.QT854.832.42 QJ73.AK96.AQ54.J"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 2H Pass 2S
+Pass 3H Pass 4C
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+CT C7 C4 CJ
+C3 H2 H5 HA
+S2 ST SA S3
+DK D6 D8 DQ
+DJ D7 D3 DA
+S4 S9 S6 S7
+C5 CA C2 D4
+C6 CK S8 SQ
+C8 CQ H8 H9
+D9 H3 D2 D5
+S5 SK HT SJ
+C9 HJ H4 H6
+DT H7 HQ HK
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "56"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:542..KJT9.T98653 KT9.J732.76.AKQ7 A86.QT854.832.42 QJ73.AK96.AQ54.J"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 2H Pass 2S
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+C9 C7 C4 CJ
+C5 H2 H4 HA
+S5 SK SA S7
+DK D6 D3 DQ
+DJ D7 D8 DA
+S2 S9 S6 SQ
+S4 ST S8 S3
+C8 CA C2 D5
+- CK - -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "57"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T54.AK6.AKQ5.A82 Q83.2.J9764.7543 AJ972.QT854.3.QJ K6.J973.T82.KT96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "N"]
+2NT Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 4D Pass
+4H Pass Pass Pass
+[Play "E"]
+C4 CJ CK CA
+H2 HQ H3 H6
+D4 H4 H7 HA
+C3 H5 H9 HK
+S3 S9 SK S4
+- - HJ -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "57"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T54.AK6.AKQ5.A82 Q83.2.J9764.7543 AJ972.QT854.3.QJ K6.J973.T82.KT96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "N"]
+1C Pass 1NT Pass
+2C Pass 2S Pass
+2NT Pass 3D Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "W"]
+C9 CA C3 CJ
+D2 DA D6 D3
+D8 DK D7 CQ
+SK S5 S3 SJ
+CT C2 C5 H4
+H3 H6 H2 HQ
+H7 HA D4 H5
+S6 ST SQ SA
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "58"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A.Q65.J943.AQ954 K842.AJ9.A62.872 QJT9653.KT83.5.T 7.742.KQT87.KJ63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+1D X 4S Pass
+Pass Pass
+[Play "N"]
+H2 H5 H9 HT
+S7 SA S2 S3
+H4 HQ HA H3
+DQ D3 D2 D5
+D7 D4 DA S5
+D8 C4 SK SQ
+DT D9 D6 S6
+C3 C5 S4 SJ
+H7 C9 S8 ST
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "58"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A.Q65.J943.AQ954 K842.AJ9.A62.872 QJT9653.KT83.5.T 7.742.KQT87.KJ63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "E"]
+1C X 1S 2D
+Pass Pass 2S 2NT
+Pass 3C 3S Pass
+Pass Pass
+[Play "N"]
+DQ D3 D6 D5
+D7 D9 DA S3
+S7 SA S2 S5
+H7 H6 H9 HT
+D8 C4 SK SQ
+- - D2 -
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "59"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:9763.KT.9842.J74 AQ42.QJ5.AQJ.K85 T5.983.T753.AQT6 KJ8.A7642.K6.932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+Pass 1C Pass 2C
+Pass 2NT Pass 3S
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+ST SK S7 S2
+D3 DK D2 DJ
+D5 D6 D4 DA
+D7 C2 D8 DQ
+H3 HA HT H5
+H8 H2 HK HJ
+S5 - S3 S4
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "59"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:9763.KT.9842.J74 AQ42.QJ5.AQJ.K85 T5.983.T753.AQT6 KJ8.A7642.K6.932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3N"]
+[Result "11"]
+[Score "NS -460"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "S"]
+Pass 2NT Pass 3D
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Play "N"]
+D3 DK D9 DQ
+H3 H2 HK H5
+D5 D6 D2 DA
+H8 - - HQ
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Open"]
+[Board "60"]
+[West "Kevin Rosenberg"]
+[North "Gavin Wolpert"]
+[East "Brian Platnick"]
+[South "Rajath Shourie"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q85.A754.5.J9542 T9.KJT3.Q98.KQ76 J632.962.743.AT8 AK74.Q8.AKJT62.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3N"]
+[Result "9"]
+[Score "NS 600"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2D
+Pass 2H Pass 2S
+Pass 2NT Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+C8 C3 CJ CK
+D7 D2 D5 D9
+D4 D6 H5 D8
+*
+
+[Event "Open"]
+[Site "Chicago"]
+[Date "2026.04.13"]
+[Round "4"]
+[Table "1"]
+[Room "Closed"]
+[Board "60"]
+[West "Kevin Bathurst"]
+[North "Brad Moss"]
+[East "John Hurd"]
+[South "Joe Grue"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q85.A754.5.J9542 T9.KJT3.Q98.KQ76 J632.962.743.AT8 AK74.Q8.AKJT62.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3N"]
+[Result "10"]
+[Score "NS 630"]
+[Competition "Teams"]
+[EventDate "2026.04.13"]
+[Annotator ""]
+[Application "LoveBridge"]
+[OptimumScore ""]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2H
+Pass 2S Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+C8 C3 CJ CK
+D3 DJ D5 D8
+D4 DA H5 D9
+D7 DK H4 DQ
+H6 DT H7 H3
+H2 D2 C2 HT
+H9 D6 C9 S9
+S6 H8 HA HJ
+CT S4 C5 C6
+CA - - -
+*
+
