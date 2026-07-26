@@ -39,11 +39,11 @@ Without Law 75, players could use secret "mistakes" to find the right contract. 
 *   **Status**: **No infraction**. The partnership correctly disclosed their agreement. Memory lapse is a "bridge error."
 *   **Outcome**: The result stands.
 
-### C. Unauthorized Information (Law 75A) - *The Trap*
-If you hear your partner give a **wrong explanation** of your call (or fail to alert it), you now have UI.
+### C. Unauthorized Information (Law 16 and 75A) - *The Trap*
+If you hear your partner give a **wrong explanation** of your call (or fail to alert it), you now have UI under Law 16B and Law 75A.
 *   You **know** your partner is on a different page.
 *   **Obligation**: You **must** bid and play as if you *didn't* hear that explanation. You must continue the auction as if your partner knows exactly what you have. 
-*   **Penalty**: If you use the UI to "fix" the auction, the Director awards an **adjusted score**.
+*   **Penalty**: If you use the UI to "fix" the auction, the Director awards an **adjusted score** (Law 16C).
 
 ---
 
@@ -109,19 +109,20 @@ The logic here is that these calls are **highly artificial**, **non-standard**, 
 
 ---
 
-## 5. Bidding Laws Index (Laws 17-40)
+## 5. Bidding Laws Index (Laws 16-40)
 
 | Law | Title | Law | Title |
 | :--- | :--- | :--- | :--- |
-| **17** | Auction Period Starts | **29** | Procedure After Call Out of Rotation |
-| **18** | Bids (Form/Sufficient) | **30** | Pass Out of Rotation |
-| **19** | Doubles and Redoubles | **31** | Bid Out of Rotation |
-| **20** | Review and Explanation | **32** | Double/Redouble Out of Rotation |
-| **21** | Misinformation | **33** | Simultaneous Calls |
-| **22** | End of Auction | **34** | Retention of Right to Call |
-| **23** | Comparable Call | **35** | Inadmissible Calls |
-| **24** | Card Exposed During Auction | **36** | Inadmissible Doubles/Redoubles |
-| **25** | Legal/Illegal Changes of Call | **37** | Action Violating Obligation to Pass |
-| **26** | Call Withdrawn (Lead Penalties) | **38** | Bid of More Than Seven |
-| **27** | Insufficient Bid | **39** | Call After Final Pass |
-| **28** | Calls Considered in Rotation | **40** | Partnership Understandings |
+| **16** | Authorized and Unauthorized Information | **29** | Procedure After Call Out of Rotation |
+| **17** | Auction Period Starts | **30** | Pass Out of Rotation |
+| **18** | Bids (Form/Sufficient) | **31** | Bid Out of Rotation |
+| **19** | Doubles and Redoubles | **32** | Double/Redouble Out of Rotation |
+| **20** | Review and Explanation | **33** | Simultaneous Calls |
+| **21** | Misinformation | **34** | Retention of Right to Call |
+| **22** | End of Auction | **35** | Inadmissible Calls |
+| **23** | Comparable Call | **36** | Inadmissible Doubles/Redoubles |
+| **24** | Card Exposed During Auction | **37** | Action Violating Obligation to Pass |
+| **25** | Legal/Illegal Changes of Call | **38** | Bid of More Than Seven |
+| **26** | Call Withdrawn (Lead Penalties) | **39** | Call After Final Pass |
+| **27** | Insufficient Bid | **40** | Partnership Understandings |
+| **28** | Calls Considered in Rotation | | |

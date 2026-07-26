@@ -6,3 +6,4 @@
 redeal.egg-info/
 __pycache__/
 .venv/
+graphify-out/
