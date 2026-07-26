@@ -1,0 +1,66 @@
+# Bridge Hand Shapes Grouped by Hand Type (Normalized to 100% per Category)
+
+Here are all 39 hand shape patterns categorized into the four standard hand types (**Balanced**, **Two-suited**, **Single-suited**, and **Three-suited**). Each category is normalized independently so that its patterns sum to 100% within that category.
+
+---
+
+### 1. Balanced Hands (Total Share: 47.61% of all deals)
+| Shape Pattern | Absolute Probability (%) | Relative % (Balanced = 100%) | Cumulative Category % |
+|---|---|---|---|
+| 4-4-3-2 | 21.55% | 45.26% | 45.26% |
+| 5-3-3-2 | 15.52% | 32.60% | 77.86% |
+| 4-3-3-3 | 10.54% | 22.14% | 100.00% |
+
+---
+
+### 2. Two-Suited Hands (Total Share: 29.02% of all deals)
+| Shape Pattern | Absolute Probability (%) | Relative % (Two-Suited = 100%) | Cumulative Category % |
+|---|---|---|---|
+| 5-4-3-1 | 12.93% | 44.56% | 44.56% |
+| 5-4-2-2 | 10.58% | 36.46% | 81.02% |
+| 5-5-2-1 | 3.17% | 10.92% | 91.94% |
+| 5-5-3-0 | 0.90% | 3.10% | 95.04% |
+| 6-5-1-1 | 0.71% | 2.45% | 97.49% |
+| 6-5-2-0 | 0.65% | 2.24% | 99.73% |
+| 6-6-1-0 | 0.07% | 0.24% | 99.97% |
+| 7-6-0-0 | 0.0056% | 0.03% | 100.00% |
+
+---
+
+### 3. Single-Suited Hands (Total Share: 19.15% of all deals)
+| Shape Pattern | Absolute Probability (%) | Relative % (Single-Suited = 100%) | Cumulative Category % |
+|---|---|---|---|
+| 6-3-2-2 | 5.64% | 29.45% | 29.45% |
+| 6-4-2-1 | 4.70% | 24.54% | 53.99% |
+| 6-3-3-1 | 3.45% | 18.02% | 72.01% |
+| 7-3-2-1 | 1.88% | 9.82% | 81.83% |
+| 6-4-3-0 | 1.33% | 6.95% | 88.78% |
+| 7-2-2-2 | 0.51% | 2.66% | 91.44% |
+| 7-4-1-1 | 0.39% | 2.04% | 93.48% |
+| 7-4-2-0 | 0.36% | 1.88% | 95.36% |
+| 7-3-3-0 | 0.27% | 1.41% | 96.77% |
+| 8-2-2-1 | 0.19% | 0.99% | 97.76% |
+| 8-3-1-1 | 0.12% | 0.63% | 98.39% |
+| 7-5-1-0 | 0.11% | 0.57% | 98.96% |
+| 8-3-2-0 | 0.11% | 0.57% | 99.53% |
+| 8-4-1-0 | 0.05% | 0.26% | 99.79% |
+| 9-2-1-1 | 0.02% | 0.10% | 99.89% |
+| 9-3-1-0 | 0.01% | 0.05% | 99.94% |
+| 9-2-2-0 | 0.01% | 0.05% | 99.99% |
+| 8-5-0-0 | 0.0031% | 0.02% | 100.01% (approx) |
+| 10-2-1-0 | 0.0011% | 0.01% | 100.02% |
+| 9-4-0-0 | 0.0010% | 0.01% | 100.03% |
+| 10-1-1-1 | 0.0004% | 0.002% | 100.032% |
+| 10-3-0-0 | 0.0002% | 0.001% | 100.033% |
+| 11-1-1-0 | 0.0000% | 0.00% | 100.033% |
+| 11-2-0-0 | 0.0000% | 0.00% | 100.033% |
+| 12-1-0-0 | 0.0000% | 0.00% | 100.033% |
+| 13-0-0-0 | 0.0000% | 0.00% | 100.00% (exact) |
+
+---
+
+### 4. Three-Suited Hands (Total Share: 4.23% of all deals)
+| Shape Pattern | Absolute Probability (%) | Relative % (Three-Suited = 100%) | Cumulative Category % |
+|---|---|---|---|
+| 4-4-4-1 | 2.99% | 70.69% | 70.69% |
+| 5-4-4-0 | 1.24% | 29.31% | 100.00% |
