@@ -1,7 +1,7 @@
 """
-Rule of 8 Bridge Simulation & Statistical Analysis
---------------------------------------------------
-Simulates bridge deals with the following conditions:
+Rule of 8 Bridge Simulation & Statistical Analysis (Including Tactical Bidding Model)
+----------------------------------------------------------------------------------
+Simulates bridge deals matching Mel's Rule of 8 criteria:
 1. South opens 1NT (15-17 HCP, balanced/semi-balanced per redeal's is_1nt library function).
 2. North has any hand (no constraints).
 3. West bids 2H or 2S when holding a single-suited hand in Hearts or Spades with either:
@@ -10,7 +10,8 @@ Simulates bridge deals with the following conditions:
 4. West has a minimum of 6 HCP.
 5. West's hand satisfies the Rule of 8 / length & loser condition: (l1 + l2 - losers) >= 2.
 6. East passes (unconditional/no action).
-7. Evaluates Double Dummy (DD) scores for West's 2M contract versus the optimal DD par score, tracking HCP, LTC, suit lengths, controls, and success rates.
+7. Evaluates Double Dummy (DD) scores for West's 2M contract versus the optimal DD par score,
+   and integrates tactical auction rules (8+ card W-E major fit -> safe; North >= 9 HCP -> game).
 """
 
 from redeal import *
@@ -31,6 +32,10 @@ stats = {
     "west_hearts": 0,
     "total_west_score": 0,
     "par_or_better_count": 0,
+    "positive_score_below_par": 0,
+    "negative_score_below_par": 0,
+    "fit_8_card_plus": 0,
+    "north_9_hcp_plus": 0,
     "hcp_sums": {"N": 0, "E": 0, "S": 0, "W": 0},
     "loser_sums": 0,
     "l1_sums": 0,
@@ -87,6 +92,14 @@ def do(deal):
     elif major == "H":
         stats["west_hearts"] += 1
         
+    # Tactical model checks
+    east_support = len(deal.east.spades if major == "S" else deal.east.hearts) >= 3
+    north_strong = deal.north.hcp >= 9
+    if east_support:
+        stats["fit_8_card_plus"] += 1
+    if north_strong:
+        stats["north_9_hcp_plus"] += 1
+        
     west_score = deal.dd_score(f"2{major}W", vul=False)
     stats["total_west_score"] += west_score
     
@@ -100,6 +113,10 @@ def do(deal):
         if len(stats["better_examples"]) < 3:
             stats["better_examples"].append((deal, major, west_score, ew_par, pars[0]))
     else:
+        if west_score > 0:
+            stats["positive_score_below_par"] += 1
+        else:
+            stats["negative_score_below_par"] += 1
         if len(stats["worse_examples"]) < 3:
             stats["worse_examples"].append((deal, major, west_score, ew_par, pars[0]))
 
@@ -108,7 +125,7 @@ def format_hand(h):
 
 def final(n_tries):
     c = stats["total_deals"]
-    print(f"--- RULE OF 8 SIMULATION RESULTS & DETAILED STATS ---")
+    print(f"--- RULE OF 8 SIMULATION RESULTS & TACTICAL MODEL ---")
     print(f"Total iterations attempted: {n_tries}")
     print(f"Total matching deals accepted: {c}")
     if c > 0:
@@ -117,8 +134,18 @@ def final(n_tries):
         print(f"West bids Hearts: {stats['west_hearts']} ({stats['west_hearts']/c*100:.2f}%)")
         avg_west_score = stats["total_west_score"] / c
         pct_par_or_better = (stats["par_or_better_count"] / c) * 100
+        pct_positive_below_par = (stats["positive_score_below_par"] / c) * 100
+        pct_negative_below_par = (stats["negative_score_below_par"] / c) * 100
         print(f"Average DD Score for West's 2M contract: {avg_west_score:.2f}")
         print(f"Percentage achieving Par score or better for EW: {pct_par_or_better:.2f}%")
+        print(f"Percentage below par with Positive West Score (Disruptive Gain): {pct_positive_below_par:.2f}%")
+        print(f"Percentage below par with Negative West Score (Penalty Loss): {pct_negative_below_par:.2f}%")
+        
+        print(f"\n[Tactical Model Assumptions]")
+        pct_fit = (stats["fit_8_card_plus"] / c) * 100
+        pct_north_game = (stats["north_9_hcp_plus"] / c) * 100
+        print(f"W-E 8+ Card Major Fit (East >= 3 card support): {stats['fit_8_card_plus']} ({pct_fit:.2f}%)")
+        print(f"North >= 9 HCP (North bids game or higher): {stats['north_9_hcp_plus']} ({pct_north_game:.2f}%)")
         
         print(f"\n[Average HCP per Seat]")
         for seat in ["N", "E", "S", "W"]:
