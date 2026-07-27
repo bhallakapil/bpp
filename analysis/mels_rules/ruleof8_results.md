@@ -22,9 +22,13 @@ Mel's Rule of 8 (and its variants) governs competitive overcalls against a stron
 
 ---
 
-## 2. Large-Scale Simulation Statistics (25,000+ Deals)
+## 2. Large-Scale Simulation Statistics (100,000 Cached Deals)
 
-Based on a massive sampling run of over 34 million total deal generations (yielding 25,000 accepted matching deals):
+Based on a large-scale simulation run of 100,000 accepted matching deals generated via [`analysis/mels_rules/ruleof8_simulation.py`](analysis/mels_rules/ruleof8_simulation.py):
+
+### Criteria Match & Acceptance Rate
+- **Acceptance Rate**: **~0.297%** (approximately 1 matching deal per ~337 random deal generations).
+- **Caching Architecture**: Qualifying deals are pre-generated and stored in [`cached-dir/ruleof8_deals_100k.pbn`](cached-dir/ruleof8_deals_100k.pbn), allowing subsequent bidding evolution models and statistical analyses to load instantly without re-running random deal sampling or filtering.
 
 ### Bidding & Performance Metrics
 - **Total Accepted Deals**: 25,000
