@@ -64,3 +64,53 @@ Here are all 39 hand shape patterns categorized into the four standard hand type
 |---|---|---|---|
 | 4-4-4-1 | 2.99% | 70.69% | 70.69% |
 | 5-4-4-0 | 1.24% | 29.31% | 100.00% |
+
+---
+
+### 5. Shapes with Absolute Probability > 1% (Total Coverage: 95.52% of all deals)
+
+| # | Shape Pattern | Suit Permutations | Absolute Probability (%) | Cumulative Coverage (%) |
+|---|---|---|---|---|
+| 1 | 4-4-3-2 | 12 | 21.55% | 21.55% |
+| 2 | 5-3-3-2 | 12 | 15.52% | 37.07% |
+| 3 | 5-4-3-1 | 24 | 12.93% | 50.00% |
+| 4 | 5-4-2-2 | 12 | 10.58% | 60.58% |
+| 5 | 4-3-3-3 | 4 | 10.54% | 71.11% |
+| 6 | 6-3-2-2 | 12 | 5.64% | 76.76% |
+| 7 | 6-4-2-1 | 24 | 4.70% | 81.46% |
+| 8 | 6-3-3-1 | 12 | 3.45% | 84.91% |
+| 9 | 5-5-2-1 | 12 | 3.17% | 88.08% |
+| 10 | 4-4-4-1 | 4 | 2.99% | 91.07% |
+| 11 | 7-3-2-1 | 24 | 1.88% | 92.96% |
+| 12 | 6-4-3-0 | 24 | 1.33% | 94.28% |
+| 13 | 5-4-4-0 | 12 | 1.24% | 95.52% |
+
+---
+
+### 6. Singleton Shapes within Top 10 Coverage (Total Probability: 27.25%)
+
+| # | Shape Pattern | Suit Permutations | Absolute Probability (%) | Cumulative Share (%) | Cumulative Coverage (%) |
+|---|---|---|---|---|---|
+| 1 | 5-4-3-1 | 24 | 12.93% | 12.93% | 50.00% |
+| 2 | 6-4-2-1 | 24 | 4.70% | 17.63% | 81.46% |
+| 3 | 6-3-3-1 | 12 | 3.45% | 21.08% | 84.91% |
+| 4 | 5-5-2-1 | 12 | 3.17% | 24.25% | 88.08% |
+| 5 | 4-4-4-1 | 4 | 2.99% | 27.25% | 91.07% |
+| — | **Total / Sum** | — | **27.25%** | **27.25%** | **91.07%** |
+
+---
+
+### 7. Top 10 Shapes with Hand Types and Cumulative Coverage (Total Coverage: 91.07% of all deals)
+
+| # | Shape Pattern | Hand Type | Absolute Probability (%) | Cumulative Coverage (%) |
+|---|---|---|---|---|
+| 1 | 4-4-3-2 | Balanced | 21.55% | 21.55% |
+| 2 | 5-3-3-2 | Balanced | 15.52% | 37.07% |
+| 3 | 5-4-3-1 | Two-Suited | 12.93% | 50.00% |
+| 4 | 5-4-2-2 | Two-Suited | 10.58% | 60.58% |
+| 5 | 4-3-3-3 | Balanced | 10.54% | 71.11% |
+| 6 | 6-3-2-2 | Single-Suited | 5.64% | 76.76% |
+| 7 | 6-4-2-1 | Two-Suited | 4.70% | 81.46% |
+| 8 | 6-3-3-1 | Single-Suited | 3.45% | 84.91% |
+| 9 | 5-5-2-1 | Two-Suited | 3.17% | 88.08% |
+| 10 | 4-4-4-1 | Three-Suited | 2.99% | 91.07% |
