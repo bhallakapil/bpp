@@ -117,107 +117,20 @@ Here are all 39 hand shape patterns categorized into the four standard hand type
 
 ---
 
-### 8. Complete Catalog of Top 13 Shapes (>1% Probability) in Vertical List Layout with Grouped Suit Distributions (Total Coverage: 95.52% of all deals)
+### 8. Complete Catalog of Top 13 Shapes (>1% Probability) — Compact Table Layout (Total Coverage: 95.52% of all deals)
 
-* **1. Shape: `4-4-3-2`** — Permutations: 12 | Abs Prob: 21.55% | Cumulative: 21.55%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Minors (DC)**: 2-3-4-4, 3-2-4-4
-    * **Rounded (HC)**: 2-4-3-4, 3-4-2-4
-    * **Reds (HD)**: 2-4-4-3, 3-4-4-2
-    * **Blacks (SC)**: 4-2-3-4, 4-3-2-4
-    * **Pointed (SD)**: 4-2-4-3, 4-3-4-2
-    * **Majors (SH)**: 4-4-2-3, 4-4-3-2
-
-* **2. Shape: `5-3-3-2`** — Permutations: 12 | Abs Prob: 15.52% | Cumulative: 37.07%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Long Clubs**: 2-3-3-5, 3-2-3-5, 3-3-2-5
-    * **Long Diamonds**: 2-3-5-3, 3-2-5-3, 3-3-5-2
-    * **Long Hearts**: 2-5-3-3, 3-5-2-3, 3-5-3-2
-    * **Long Spades**: 5-2-3-3, 5-3-2-3, 5-3-3-2
-
-* **3. Shape: `5-4-3-1`** — Permutations: 24 | Abs Prob: 12.93% | Cumulative: 50.00%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Minors (DC)**: 1-3-4-5, 3-1-4-5, 1-3-5-4, 3-1-5-4
-    * **Rounded (HC)**: 1-4-3-5, 3-4-1-5, 1-5-3-4, 3-5-1-4
-    * **Reds (HD)**: 1-4-5-3, 3-4-5-1, 1-5-4-3, 3-5-4-1
-    * **Blacks (SC)**: 4-1-3-5, 5-1-3-4, 4-3-1-5, 5-3-1-4
-    * **Pointed (SD)**: 4-1-5-3, 5-1-4-3, 4-3-5-1, 5-3-4-1
-    * **Majors (SH)**: 4-5-1-3, 5-4-1-3, 4-5-3-1, 5-4-3-1
-
-* **4. Shape: `5-4-2-2`** — Permutations: 12 | Abs Prob: 10.58% | Cumulative: 60.58%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Minors (DC)**: 2-2-4-5, 2-2-5-4
-    * **Rounded (HC)**: 2-4-2-5, 2-5-2-4
-    * **Reds (HD)**: 2-4-5-2, 2-5-4-2
-    * **Blacks (SC)**: 4-2-2-5, 5-2-2-4
-    * **Pointed (SD)**: 4-2-5-2, 5-2-4-2
-    * **Majors (SH)**: 4-5-2-2, 5-4-2-2
-
-* **5. Shape: `4-3-3-3`** — Permutations: 4 | Abs Prob: 10.54% | Cumulative: 71.11%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Long Clubs**: 3-3-3-4
-    * **Long Diamonds**: 3-3-4-3
-    * **Long Hearts**: 3-4-3-3
-    * **Long Spades**: 4-3-3-3
-
-* **6. Shape: `6-3-2-2`** — Permutations: 12 | Abs Prob: 5.64% | Cumulative: 76.76%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Long Clubs**: 2-2-3-6, 2-3-2-6, 3-2-2-6
-    * **Long Diamonds**: 2-2-6-3, 2-3-6-2, 3-2-6-2
-    * **Long Hearts**: 2-6-2-3, 2-6-3-2, 3-6-2-2
-    * **Long Spades**: 6-2-2-3, 6-2-3-2, 6-3-2-2
-
-* **7. Shape: `6-4-2-1`** — Permutations: 24 | Abs Prob: 4.70% | Cumulative: 81.46%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Minors (DC)**: 1-2-4-6, 2-1-4-6, 1-2-6-4, 2-1-6-4
-    * **Rounded (HC)**: 1-4-2-6, 2-4-1-6, 1-6-2-4, 2-6-1-4
-    * **Reds (HD)**: 1-4-6-2, 2-4-6-1, 1-6-4-2, 2-6-4-1
-    * **Blacks (SC)**: 4-1-2-6, 6-1-2-4, 4-2-1-6, 6-2-1-4
-    * **Pointed (SD)**: 4-1-6-2, 6-1-4-2, 4-2-6-1, 6-2-4-1
-    * **Majors (SH)**: 4-6-1-2, 6-4-1-2, 4-6-2-1, 6-4-2-1
-
-* **8. Shape: `6-3-3-1`** — Permutations: 12 | Abs Prob: 3.45% | Cumulative: 84.91%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Long Clubs**: 1-3-3-6, 3-1-3-6, 3-3-1-6
-    * **Long Diamonds**: 1-3-6-3, 3-1-6-3, 3-3-6-1
-    * **Long Hearts**: 1-6-3-3, 3-6-1-3, 3-6-3-1
-    * **Long Spades**: 6-1-3-3, 6-3-1-3, 6-3-3-1
-
-* **9. Shape: `5-5-2-1`** — Permutations: 12 | Abs Prob: 3.17% | Cumulative: 88.08%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Minors (DC)**: 1-2-5-5, 2-1-5-5
-    * **Rounded (HC)**: 1-5-2-5, 2-5-1-5
-    * **Reds (HD)**: 1-5-5-2, 2-5-5-1
-    * **Blacks (SC)**: 5-1-2-5, 5-2-1-5
-    * **Pointed (SD)**: 5-1-5-2, 5-2-5-1
-    * **Majors (SH)**: 5-5-1-2, 5-5-2-1
-
-* **10. Shape: `4-4-4-1`** — Permutations: 4 | Abs Prob: 2.99% | Cumulative: 91.07%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Singleton Clubs**: 4-4-4-1
-    * **Singleton Diamonds**: 4-4-1-4
-    * **Singleton Hearts**: 4-1-4-4
-    * **Singleton Spades**: 1-4-4-4
-
-* **11. Shape: `7-3-2-1`** — Permutations: 24 | Abs Prob: 1.88% | Cumulative: 92.96%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Long Clubs**: 1-2-3-7, 1-3-2-7, 2-1-3-7, 2-3-1-7, 3-1-2-7, 3-2-1-7
-    * **Long Diamonds**: 1-2-7-3, 1-3-7-2, 2-1-7-3, 2-3-7-1, 3-1-7-2, 3-2-7-1
-    * **Long Hearts**: 1-7-2-3, 1-7-3-2, 2-7-1-3, 2-7-3-1, 3-7-1-2, 3-7-2-1
-    * **Long Spades**: 7-1-2-3, 7-1-3-2, 7-2-1-3, 7-2-3-1, 7-3-1-2, 7-3-2-1
-
-* **12. Shape: `6-4-3-0`** — Permutations: 24 | Abs Prob: 1.33% | Cumulative: 94.28%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Minors (DC)**: 0-3-4-6, 3-0-4-6, 0-3-6-4, 3-0-6-4
-    * **Rounded (HC)**: 0-4-3-6, 3-4-0-6, 0-6-3-4, 3-6-0-4
-    * **Reds (HD)**: 0-4-6-3, 3-4-6-0, 0-6-4-3, 3-6-4-0
-    * **Blacks (SC)**: 4-0-3-6, 6-0-3-4, 4-3-0-6, 6-3-0-4
-    * **Pointed (SD)**: 4-0-6-3, 6-0-4-3, 4-3-6-0, 6-3-4-0
-    * **Majors (SH)**: 4-6-0-3, 6-4-0-3, 4-6-3-0, 6-4-3-0
-
-* **13. Shape: `5-4-4-0`** — Permutations: 12 | Abs Prob: 1.24% | Cumulative: 95.52%
-  * **Grouped Suit Distributions (S-H-D-C)**:
-    * **Long Clubs**: 0-4-4-5, 4-0-4-5, 4-4-0-5
-    * **Long Diamonds**: 0-4-5-4, 4-0-5-4, 4-4-5-0
-    * **Long Hearts**: 0-5-4-4, 4-5-0-4, 4-5-4-0
-    * **Long Spades**: 5-0-4-4, 5-4-0-4, 5-4-4-0
+| # | Shape | Perms | Abs Prob (%) | Cum (%) | Grouped Suit Distributions (S-H-D-C) |
+|---|---|---|---|---|---|
+| 1 | `4-4-3-2` | 12 | 21.55% | 21.55% | **DC**: 2344, 3244 \| **HC**: 2434, 3424 \| **HD**: 2443, 3442<br>**SC**: 4234, 4324 \| **SD**: 4243, 4342 \| **SH**: 4423, 4432 |
+| 2 | `5-3-3-2` | 12 | 15.52% | 37.07% | **Clubs**: 2335, 3235, 3325 \| **Diamonds**: 2353, 3253, 3352<br>**Hearts**: 2533, 3523, 3532 \| **Spades**: 5233, 5323, 5332 |
+| 3 | `5-4-3-1` | 24 | 12.93% | 50.00% | **DC**: 1345, 3145, 1354, 3154 \| **HC**: 1435, 3415, 1534, 3514<br>**HD**: 1453, 3451, 1543, 3541 \| **SC**: 4135, 5134, 4315, 5314<br>**SD**: 4153, 5143, 4351, 5341 \| **SH**: 4513, 5413, 4531, 5431 |
+| 4 | `5-4-2-2` | 12 | 10.58% | 60.58% | **DC**: 2245, 2254 \| **HC**: 2425, 2524 \| **HD**: 2452, 2542<br>**SC**: 4225, 5224 \| **SD**: 4252, 5242 \| **SH**: 4522, 5422 |
+| 5 | `4-3-3-3` | 4 | 10.54% | 71.11% | **Clubs**: 3334 \| **Diamonds**: 3343 \| **Hearts**: 3433 \| **Spades**: 4333 |
+| 6 | `6-3-2-2` | 12 | 5.64% | 76.76% | **Clubs**: 2236, 2326, 3226 \| **Diamonds**: 2263, 2362, 3262<br>**Hearts**: 2623, 2632, 3622 \| **Spades**: 6223, 6232, 6322 |
+| 7 | `6-4-2-1` | 24 | 4.70% | 81.46% | **DC**: 1246, 2146, 1264, 2164 \| **HC**: 1426, 2416, 1624, 2614<br>**HD**: 1462, 2461, 1642, 2641 \| **SC**: 4126, 6124, 4216, 6214<br>**SD**: 4162, 6142, 4261, 6241 \| **SH**: 4612, 6412, 4621, 6421 |
+| 8 | `6-3-3-1` | 12 | 3.45% | 84.91% | **Clubs**: 1336, 3136, 3316 \| **Diamonds**: 1363, 3163, 3361<br>**Hearts**: 1633, 3613, 3631 \| **Spades**: 6133, 6313, 6331 |
+| 9 | `5-5-2-1` | 12 | 3.17% | 88.08% | **DC**: 1255, 2155 \| **HC**: 1525, 2515 \| **HD**: 1552, 2551<br>**SC**: 5125, 5215 \| **SD**: 5152, 5251 \| **SH**: 5512, 5521 |
+| 10 | `4-4-4-1` | 4 | 2.99% | 91.07% | **Clubs**: 4441 \| **Diamonds**: 4414 \| **Hearts**: 4144 \| **Spades**: 1444 |
+| 11 | `7-3-2-1` | 24 | 1.88% | 92.96% | **Clubs**: 1237, 1327, 2137, 2317, 3127, 3217<br>**Diamonds**: 1273, 1372, 2173, 2371, 3172, 3271<br>**Hearts**: 1723, 1732, 2713, 2731, 3712, 3721<br>**Spades**: 7123, 7132, 7213, 7231, 7312, 7321 |
+| 12 | `6-4-3-0` | 24 | 1.33% | 94.28% | **DC**: 0346, 3046, 0364, 3064 \| **HC**: 0436, 3406, 0634, 3604<br>**HD**: 0463, 3460, 0643, 3640 \| **SC**: 4036, 6034, 4306, 6304<br>**SD**: 4063, 6043, 4360, 6340 \| **SH**: 4603, 6403, 4630, 6430 |
+| 13 | `5-4-4-0` | 12 | 1.24% | 95.52% | **Clubs**: 0445, 4045, 4405 \| **Diamonds**: 0454, 4054, 4450<br>**Hearts**: 0544, 4504, 4540 \| **Spades**: 5044, 5404, 5440 |
