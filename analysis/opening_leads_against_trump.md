@@ -4,7 +4,54 @@
 
 ## 1. Opening Leads Against Trump Contracts
 
-*(Opening lead suits, card combinations, and principles against trump contracts)*
+### Quick Reckoner / Visual Matrix (Mapping Opening Leads to Defensive Strategies)
+
+| Defensive Scenario (from Sec. 2) | Opening Lead Objective | Recommended Lead Type & Card Selection |
+| :--- | :--- | :--- |
+| **1. The Forcing Game** | Deplete declarer's trump length | Long, robust side suit (5+ cards) headed by honors |
+| **2. Attacking / Active Defense** | Race to cash side winners before discards | Active lead away from honors (`K-J-x-x`, `Q-x-x`) or high sequences |
+| **3. Short-Suit Lead (Ruffs)** | Create ruffing tricks in your hand | Singleton or doubleton (ideally with 3 small trumps) |
+| **4. Safe / Passive Defense** | Refuse to give free tricks; make declarer open suits | Top of nothing (`9` from `9-7-4-2`) or safe sequence (`Q-J-10-x`) |
+| **5. Trump Lead** | Cut down dummy ruffing power / cross-ruffs | Low or high trump depending on holding (`Q-x` vs safe spot) |
+| **6. Partner's Bid Suit** | Cooperative defense in partner's suit | Systemic card selection (Highest from doubleton/weak 3, Lowest from honor-3) |
+| **7. Unbid Suits (Discovery)** | Probe auction weaknesses in unknown suits | Solid/broken sequences or 4th-highest from length |
+| **8. Isolating Dummy** | Destroy dummy's single entry card | Lead through dummy's isolated control card on trick one |
+
+---
+
+### Deep Dive: Comprehensive Opening Lead Scenarios Against Trump
+
+#### 1. Leading for The Forcing Game
+*   **When to Lead:** When you hold 4+ trumps and a robust 5+ card side suit and want to put declarer under pressure.
+*   **Lead Selection:** Lead your longest, strongest side suit (e.g., `K-Q-J-8-5`). Your goal is to force declarer to ruff, reducing their trump holding below parity.
+
+#### 2. Leading for Attacking / Active Defense
+*   **When to Lead:** When the auction reveals dummy has a powerful side suit that will provide parking spots for declarer's losers, or against high-level slams.
+*   **Lead Selection:** Underlead honors or lead active intermediate combinations (`K-J-x-x` or `Q-x-x-x`) to establish tricks immediately.
+
+#### 3. Leading Short Suits (Hunting for Ruffs)
+*   **When to Lead:** When you hold a singleton or doubleton and possess the trump length (`8-5-3`) to absorb a trump round without losing control.
+*   **Lead Selection:** Lead the singleton directly. Avoid leading singletons when you hold natural trump tricks (like `Q-J-10`) or 4+ trumps.
+
+#### 4. Safe / Passive Leads
+*   **When to Lead:** Against low part-scores or when holding tenace holdings (`A-Q-x`) you don't want to break.
+*   **Lead Selection:** Lead "top of nothing" (`9` from `9-7-4-2`) or a safe trump/sequence.
+
+#### 5. The Trump Opening Lead
+*   **When to Lead:** Against cross-ruff auctions, competitive part-score scraps, or when opponents are likely to scramble with small trumps.
+*   **Lead Selection:** Lead a neutral trump (avoiding fragile holdings like `K-x` or `Q-x-x`).
+
+#### 6. Partner's Bid Suit Lead
+*   **When to Lead:** Whenever partner has opened, overcalled, or competitively bid a suit.
+*   **Lead Selection:** Use strict partnership mechanics (highest from doubleton, lowest with an honor, top of sequence).
+
+#### 7. Leading Unbid Suits (Discovery)
+*   **When to Lead:** When the auction leaves a suit entirely unmentioned and you need to probe assets.
+*   **Lead Selection:** Prioritize solid sequences (`Q-J-10-x`), broken sequences (`K-J-10-x`), or 4th-best from length (`K-9-6-2`).
+
+#### 8. Isolating Dummy / Entry-Killing Leads
+*   **When to Lead:** When dummy holds a strong suit with only one vulnerable entry card.
+*   **Lead Selection:** Target the suit directly on trick one to force dummy to burn their isolated entry prematurely.
 
 ---
 
@@ -110,7 +157,7 @@ Once you choose your lead suit, utilize this card selection matrix to communicat
 | :--- | :--- | :--- | :--- |
 | **A-K-x-x** | Lead **King** | Lead **Ace** | King requests attitude; Ace requests count. |
 | **A-K alone** | Lead **Ace** | Lead **King** | Shows exactly the doubleton. |
-| **Four or more cards** | Lead **4th Highest** | Lead **2nd Highest** | Tells partner exactly how many cards you hand. |
+| **Four or more cards** | Lead **4th Highest** | Lead **2nd Highest** | Tells partner exactly how many cards you hold. |
 | **Three small cards** | Lead **Highest** | Lead **Lowest** | Avoids wasting a potential high spot card. |
 
 ---
