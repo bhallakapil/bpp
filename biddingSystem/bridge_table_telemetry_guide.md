@@ -94,3 +94,120 @@ When partnership bidding systems and defensive signals operate at zero cognitive
 * **Intersession Protocol:**
   * Take a 15-minute brisk walk between afternoon and evening sessions to flush lactic acid and keep blood pressure steady.
   * Avoid heavy carbs; stick to clean protein, nuts, water, and electrolytes.
+
+---
+
+## 8. San Diego NABC Field Execution & Scoring Protocols
+
+### 1. How to Conduct at National Championship Level (San Diego NABC)
+* **National Field Pacing & Time Discipline:** NABC fields enforce rigorous time limits (typically 2 hours and 10 minutes per 14-board session or proportional time blocks). Maintain your 3-second cadence relentlessly; never let slow opponents or complex previous boards compress your clock.
+* **Professional Decorum & Director Relations:** National events feature premier directors and top-tier appeals committees. When calling the director or handling rulings, maintain absolute emotional detachment ("Warm Glacier"). State facts clearly without editorializing or accusing opponents of bad faith.
+* **Field Calibration:** Recognize that national fields punish sloppy defensive signaling and casual carding far more harshly than local club games. Assume opponents are executing optimal carding and counting your hand distribution by trick 3.
+
+### 2. How Best to Keep Score: Pairs vs. Teams
+* **Pairs (Matchpoints - MP Scoring):**
+  * **Objective:** Maximize every single trick; a single overtrick or making 1NT instead of defending 1S converts a 0% board into a 100% top.
+  * **Scorekeeping Practice:** On your minimalist paper pad, note the exact contract, declarer, opening lead, and trick count. Immediately evaluate whether the score is a field-average, top, or bottom.
+  * **Bridgemate Verification:** Partner enters the score; you visually verify the exact contract, declarer, and plus/minus direction before tapping confirm. Zero tolerance for input typos.
+* **Teams (International Match Points - IMP Scoring):**
+  * **Objective:** Swing minimization and risk management. Protect fragile partscores, bid vulnerable games aggressively (40%+), and avoid bleeding unnecessary undertricks (going down 2 or 3 in a partscore is catastrophic).
+  * **Scorekeeping Practice:** Track the running score differential mentally or using a simplified IMP conversion scale on your margin notes. Do not dwell on teammate results during the session—park all speculation until the post-match comparison.
+  * **Audit Protocol:** Cross-reference team scorecards against official duplicate match sheets immediately upon round completion.
+
+### 3. Personal Scorekeeping Template & Metrics
+* **The Personal Pad Layout:** Do not rely solely on the Bridgemate. Maintain a dedicated personal scoring pad with columns for:
+  1. `Bd` (Board number)
+  2. `Opps` (Opponent pair/team number)
+  3. `Contract & Lead` (e.g., `4HS-Kx` or `3NTN-2`)
+  4. `Tricks` (Tricks won by declarer)
+  5. `Personal Evaluation` (`+` for win, `=` for push, `-` for loss) and glyph (`O`, `/`, `*`) for post-mortem review.
+* **Running Field Assessment:** For pairs, note whether a contract felt like a field standard or an outlier so you can calibrate your session volatility.
+
+### 4. Opponent Greeting & Table Diplomacy Protocol
+* **The Controlled Greeting:** Upon arriving at the table, make direct eye contact, offer a firm, neutral handshake or nod, and speak in a calm, professional tone: *"Hello, good luck."* (Never overly chatty or intimidating).
+* **System Exchange & Courtesy:** Place your convention cards neatly on the table facing opponents before the first board. If opponents ask about an unusual treatment, answer concisely and truthfully without volunteering extra system secrets.
+* **Post-Board Decorum:** Maintain complete civility. Never gloat over a top or complain about bad cards to opponents. Preserve your energy for internal diagnostics.
+
+### 5. Advanced NABC Edge & Winning Tactics
+* **Convention Card Rigor:** Ensure both partnership convention cards are fully filled out, legible, and compliant with ACBL regulations. Ambiguous defenses against strong NT or weak 2s invite director rulings.
+* **Hydration and Focus Anchors:** Sip water or electrolyte drinks between boards. Keep physical posture relaxed yet alert. Use the 3-second tempo rule to frustrate opponents trying to rush you or bait you into hasty mistakes.
+
+### 6. Comprehensive Convention Card Blueprint (Per Player)
+* **ACBL Standard CC Requirements:** Both players must have fully completed ACBL convention cards on the table before bidding begins. Incomplete cards invite director intervention and opponent queries.
+* **Section-by-Section Specification:**
+  * **Notrump Openings & Responses:** Specify exact point ranges (e.g., 15–17 NV/V), Stayman, transfers (including super-accepts), minor suit transfers, and lebensohl over 1NT interference.
+  * **Major Openings & Raises:** 5-card majors, Jacoby 2NT, limit raises, 1NT semi-forcing, Splinters, and Bergen or inverted minor raises.
+  * **Competitive Bidding:** Overcalls (sound vs tactical), takeout doubles (and advancer responses), Cue-bids, Negative Doubles (up to what level), Lebensohl, and Defense to 1NT (e.g., Landy / DONT).
+  * **Lead & Carding Agreements:** Opening leads (3rd/5th best, attitude vs count), carding on defense (UDCA - Upside Down Count & Attitude, standard count on declarer leads, Smith echo).
+
+### 7. Hydration, Nutrition, and Beverage Protocol
+* **Steelman Case for Zero Caffeine / Zero Sugar:**
+  * **Neural Stability & Adenosine Management:** Caffeine blocks adenosine receptors temporarily, creating an artificial surge in alertness followed by a steep neuro-energetic crash (adenosine rebound) exactly when late-session calculation depth is required.
+  * **Glycemic Control & Cortisol Mitigation:** Refined sugar triggers rapid insulin spikes followed by reactive hypoglycemia. This drops blood glucose to the brain, impairing working memory, destroying patience, and triggering impulsive emotional bidding or defensive lapses. Eliminating sugar and caffeine maintains flat, stable cognitive baseline across 8+ hours.
+* **Protein Shake Protocol (Pre-Session & Intermission):**
+  * **Selection:** Pure Whey Isolate or clean Plant Isolate (pea/hemp) with **zero added sugar, zero artificial sweeteners (sucralose/aspartame)**, and minimal ingredients.
+  * **Mechanism:** Provides sustained amino acids (including precursors like tyrosine for dopamine/norepinephrine synthesis) without digesting heavily.
+  * **Timing:** Consume 60 minutes *before* session start or during the intersession break. Never drink heavy shakes mid-session to avoid digestive blood diversion (postprandial somnolence / brain fog).
+* **Electrolyte Product Recommendations for NABC:**
+  * **LMNT (Top Choice for Clean High-Sodium Focus):**
+    * *Profile:* 1,000 mg Sodium, 200 mg Potassium, 60 mg Magnesium, 0g sugar, Stevia.
+    * *Tournament Legality:* 100% permitted at ACBL tournament tables (electrolyte drink mixes in personal water bottles are standard).
+    * *Usage note:* Because 1,000 mg of sodium is high, dilute one stick in 32 oz of water and sip gradually across a 2-hour session rather than gulping it concentrated. Maximum **2 sticks per day**.
+### 9. Advanced Cognitive Enhancers & Tournament Nutrition Architecture
+* **Safe & Legal Nootropics for Bridge Cognition:**
+  * **Choline Donors (Alpha-GPC or Citicoline):** Acetylcholine is the primary neurotransmitter for working memory, pattern recognition, and calculation depth. Supplementing 300–600 mg of Alpha-GPC 45 minutes before Game 1 enhances synaptic transmission speed.
+  * **L-Theanine:** If any caffeine is consumed, pair it with a 2:1 ratio of L-Theanine to eliminate jitter, smooth out neural activation, and maintain laser-focused calm under time pressure.
+  * **Adaptogens (Rhodiola Rosea):** Reduces cortisol response to bad boards and mitigates late-session mental fatigue during 8-hour tournament days.
+* **Tournament Food Choices (Optimizing Glycemic Stability & Blood Flow):**
+  * **Pre-Session Meal (Breakfast / Lunch):**
+    * *Foods:* Pasture-raised eggs, avocado, smoked salmon, grilled chicken breast, or clean protein isolate.
+    * *Avoid:* Pancakes, cereals, white toast, fruit juices, or pastries. High-carbohydrate breakfasts trigger reactive hypoglycemia, causing brain fog and emotional irritability by board 5.
+  * **Intersession Meal (Between Afternoon & Evening):**
+    * *Foods:* Grilled wild-caught salmon, white fish, chicken breast, or turkey with roasted non-starchy vegetables (broccoli, asparagus, spinach) and olive oil, macadamia nuts, or pumpkin seeds.
+    * *Avoid:* Heavy pasta, rice bowls, or massive portions. Heavy carbohydrate loads divert cardiac output to the digestive tract (postprandial somnolence), reducing cerebral blood perfusion exactly when evening session intensity peaks.
+  * **Table & Round-Change Snacks (6-Day Tournament Stack):**
+    * *The Stack:* **LMNT** (max 2 sticks/day in 32+ oz water), raw/dry-roasted **almonds**, **walnuts**, and **85%+ dark chocolate**.
+    * *Verdict:* This is an elite between-round micro-fuel stack. Walnuts and almonds provide steady healthy fats and magnesium; dark chocolate supplies clean polyphenols and subtle theobromine alertness without sugar crashes; LMNT maintains neural action potentials.
+    * *Crucial Rule for 6 Days:* This stack is designed for **round-change micro-fueling only**, not as a sole meal replacement. To survive a grueling 6-day NABC without muscle wasting or mental fatigue, you must pair this snack stack with at least two solid protein-and-vegetable meals daily (e.g., eggs/salmon for breakfast and chicken/fish with vegetables for intersession dinner).
+* **Strict Table Beverage Rules:**
+  * Keep a covered stainless steel bottle with electrolyte water on the floor or side table.
+  * Sip small quantities during board movement intervals only.
+
+### 8. Scoring Tools & Internet Usage Policy
+* **Live Table Scoring:** You do **not** need external internet tools or websites at the table. ACBL tournaments use **Bridgemate wireless devices** for instant electronic scoring and official paper recap sheets.
+* **Internet Recap & Analysis Tools (Post-Session Only):**
+  * Use official ACBL Live (`acbl.org/live`) or BridgeWinners / Bridgemate scoring apps only *after* the session has concluded to check rankings and field comparison.
+  * Download PBN/LIN files post-match for solver analysis (e.g., DeepFinesse / DDS) without relying on live web lookup during active play.
+
+---
+
+## 10. San Diego NABC Procurement & Shopping Master Checklist
+
+| Category | Item / Product | Quantity / Spec | Purpose / Timing |
+| :--- | :--- | :--- | :--- |
+| **Hydration** | **LMNT Electrolyte Packets** | 1–2 boxes (Unflavored or Citrus) | Max 2 sticks/day, diluted in 32+ oz water across sessions for zero-sugar sodium/potassium balance. |
+| **Hydration Vessel** | **Insulated Stainless Steel Water Bottle** | 1 bottle (32 oz with secure lid) | Keep on floor/side table for quiet, spill-proof sipping during movement intervals. |
+| **Supplements** | **Creatine Monohydrate (Pure)** | 1 container (5g daily serving) | Max 5g/day for cellular hydration and cognitive working memory. |
+| **Micro-Fuel** | **Raw / Dry-Roasted Almonds & Walnuts** | Bulk bag (unsalted/lightly salted) | Between-round healthy fats and slow-burn energy. |
+| **Micro-Fuel** | **85%+ Dark Chocolate Bars** | 4–6 bars | Polyphenols and subtle theobromine alertness during long matches. |
+| **Primary Meals** | **Salmon, Chicken, Turkey, Eggs** | Fresh daily procurement | Core protein sources for breakfast and intersession dinner (zero beef). |
+| **Produce** | **Non-Starchy Vegetables (Broccoli, Spinach, Asparagus)** | Daily supply | Fiber and micronutrients without postprandial somnolence. |
+| **Equipment** | **Intermediate Single-Vision Glasses** | 1 pair (optimized for 24–30 inch table focus) | Eliminate eye strain across 8–10 hour competitive blocks. |
+| **Stationery** | **Minimalist Score Pads & Pens** | 2 pads + black pens | Partner/player division of labor for paper scoring and tracking. |
+
+---
+
+## 11. Post-Session Recovery & Sleep Restoration Protocol
+
+### 1. Legs-Up-The-Wall Protocol (Viparita Karani)
+* **Execution:** Lie flat on your back with your buttocks pressed against a wall and your legs extended vertically upward against the wall for 10–15 minutes right before sleeping.
+* **Physiological Benefit:** Reverses venous pooling from sitting at bridge tables for 8–10 hours, drains lower-extremity fluid, stimulates the parasympathetic nervous system (vagus nerve activation), and lowers resting heart rate for deep restorative sleep.
+
+### 2. Spinal & Postural Decompression
+* **Table Posture Compensation:** Hours of hunching over bidding boxes and card trays compress the thoracic spine and tighten hip flexors.
+* **Routine:** Spend 5 minutes post-session performing gentle thoracic extensions, cat-cow stretches, and doorframe chest stretches to reset posture and eliminate neck/shoulder tension.
+
+### 3. NABC Sleep Architecture (6-Day Multi-Day Endurance)
+* **Strict Wind-Down:** Stop analyzing board records or PBN files at least 45 minutes before sleep. Blue light blocking glasses if looking at screens.
+* **Room Environment:** Keep hotel room pitch black, cool (65–68°F), and quiet.
+* **Consistency:** Maintain identical sleep and wake times across all 6 days of the national tournament to prevent cumulative circadian sleep debt.
