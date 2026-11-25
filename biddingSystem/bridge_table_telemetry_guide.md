@@ -179,7 +179,7 @@ When partnership bidding systems and defensive signals operate at zero cognitive
     * **3. Eradicating Biological Background Noise:** Minor electrolyte depletion triggers subtle autonomic stress responses—micro-cramping, restlessness, headaches, and irritability. In elite bridge, where psychological telemetry and memory span demand 100% of your cognitive bandwidth, any internal biological distress acts as static interference. The Na + K protocol achieves absolute biological homeostasis, freeing your entire mental RAM for the table.
 ### 9. Advanced Cognitive Enhancers & Tournament Nutrition Architecture
 * **Safe & Legal Nootropics & Supplements for Bridge Cognition:**
-  * **L-Tyrosine (Sustaining Mental Stamina Under Fatigue):** Precursor to dopamine and norepinephrine. Supplementing 500–1,000 mg pre-session replenishes neurotransmitter stores and prevents calculation slowdown during Sessions 8 through 12.
+  * **L-Tyrosine (Sustaining Mental Stamina Under Fatigue):** Precursor to dopamine and norepinephrine. Supplementing 500–1,000 mg 45–60 minutes pre-session replenishes neurotransmitter stores. *Full-Day Protocol:* Because L-Tyrosine's plasma half-life is 2–3 hours, take a split dose (500 mg before Session 1 and 500 mg during the intersession break before the evening session) to maintain peak calculation stamina through Session 12.
   * **Foundational Daily Micronutrient Stack (D3/K2, B12):**
     * **Vitamin D3 + K2:** Supports systemic neurological health, immune function, and cellular signaling. Take daily with fat-containing meals.
     * **Vitamin B12:** Essential for neurological integrity, nerve myelination, and cellular energy metabolism (especially critical if avoiding beef or following restricted diets). Take daily.
@@ -189,9 +189,10 @@ When partnership bidding systems and defensive signals operate at zero cognitive
 | Timing | Core Items & Dosage | Core Purpose |
 | :--- | :--- | :--- |
 | **Morning (With Breakfast)** | Vitamin D3/K2 (1 cap), B12 (1 tab), Magnesium (120mg) | Foundational neural integrity & cellular signaling |
-| **Pre-Session (45–60 min prior)** | L-Tyrosine (500–1,000mg) | Dopamine/norepinephrine fatigue resistance |
-| **Pre-Session (60 min prior)** | Clean Protein Isolate (1 serving, zero sugar) | Stable amino acids without digestive brain fog |
+| **Pre-Session Meal & Stack (60 min prior)** | Eggs/Salmon/Chicken + L-Tyrosine (500–1,000mg) | Glycemic stability & catecholamine fatigue resistance |
+| **Intersession (Between Sessions)** | Protein + non-starchy veg + L-Tyrosine (500mg) | Sustained mental energy & neurotransmitter replenishment |
 | **During Play (Sipped)** | DIY Na + K Master Mix (1/4 tsp per 16 oz flask) | Electrochemical action potentials & cerebral perfusion |
+| **Round Changes (Snacks)** | Almonds, walnuts, 85%+ dark chocolate, LMNT water | Between-round micro-fueling without crashing |
 
 * **Tournament Food Choices (Optimizing Glycemic Stability & Blood Flow):**
   * **Pre-Session Meal (Breakfast / Lunch):**
