@@ -152,7 +152,31 @@ When partnership bidding systems and defensive signals operate at zero cognitive
   * **LMNT (Top Choice for Clean High-Sodium Focus):**
     * *Profile:* 1,000 mg Sodium, 200 mg Potassium, 60 mg Magnesium, 0g sugar, Stevia.
     * *Tournament Legality:* 100% permitted at ACBL tournament tables (electrolyte drink mixes in personal water bottles are standard).
-    * *Usage note:* Because 1,000 mg of sodium is high, dilute one stick in 32 oz of water and sip gradually across a 2-hour session rather than gulping it concentrated. Maximum **2 sticks per day**.
+    * *Why Constant Sipping Matters vs. Bolus Intake (Chugging):* 
+      * **GI & Osmotic Protection:** Chugging 1,000 mg of sodium all at once creates a hypertonic bolus in the stomach, drawing water via osmosis and causing cramping, nausea, or acute diarrhea mid-match. Sipping a 32 oz dilute solution maintains a steady intestinal absorption curve.
+      * **Plasma Volume & Renal Retention vs. Flushing:** Gulping plain water triggers an immediate diuretic response (frequent urination because the kidneys flush unmineralized water). Sipping balanced sodium and potassium water maintains proper plasma osmolality, causing your body to **retain and absorb** the water into cellular and vascular tissue rather than instantly flushing it out. You will experience far fewer frantic bathroom breaks compared to drinking plain tap water.
+      * **Continuous Neural Firing:** Neurons require a steady trickle of sodium and potassium to maintain the sodium-potassium pump. Bolus intake creates peaks and valleys, whereas sipping maintains unwavering synaptic conductivity across an 8-hour session.
+    * *Usage note:* Dilute one stick in at least 32 oz of water and sip gradually across the session. Maximum **2 sticks per day**.
+  * **DIY Budget Electrolyte Alternative (95% Cheaper Formula):**
+    * *Is LMNT special?* No. LMNT is simply commercial marketing and flavoring around basic food-grade salts. You can replicate the exact active mineral profile at home for pennies per serving.
+    * *Practical Batch Mixing (The Shaker & Vial Method):*
+      * **1. Buy:** Morton Lite Salt + normal table salt.
+      * **2. Pre-mix:** Combine in a bulk master jar or shaker (e.g., mix 1 cup of regular table salt + 1/2 cup of Morton Lite Salt thoroughly).
+      * **3. Store & Carry:** Fill a small travel vial or mini container holding pre-measured 1/4 tsp doses (or tuck a 1/4 tsp measuring spoon inside your flask bag).
+      * **4. Deploy:** Dump one level 1/4 tsp of the blended master mix into your 16 oz flask per session, sip constantly, and execute.
+      * *Why normal salt is needed in addition to Morton Lite Salt:* Morton Lite Salt is a 50/50 mix of sodium chloride and potassium chloride. Blending regular table salt (pure sodium) with Lite Salt achieves the optimal professional endurance ratio (~1,000 mg sodium to ~350 mg potassium) without excessive potassium or metallic taste.
+    * *Travel Portability (Bulk Container or Sachets):* 
+      * **The Master Batch Container:** Because dry salt and Morton Lite Salt mixtures are completely stable, you can pre-mix a bulk batch in a small, air-tight screw-top travel container or silicone jar. Simply pour/scoop a small amount directly into your water flask each session.
+      * **Club Game Application (3-Hour Sessions):** Yes, apply this exact protocol during 3-hour local club games. Treating club games as live laboratory reps builds physiological and temporal habits into autopilot, ensuring zero friction when you step onto the national stage in San Diego.
+      * **Water Volume for 3-Hour Sessions:** **16 to 32 oz** total across the session, sipped gradually in small mouthfuls during movement intervals. (16 oz is ideal if you want zero restroom interruptions while maintaining steady hydration).
+      * A massive 32 oz bottle on top of a bridge table is impractical, violates space norms, and risks spilling on bidding boxes.
+      * **Solution 1 (The Compact Flask & Refill Method):** Carry a small, discreet 12–16 oz insulated flask on the floor or side apron. Keep your larger 32 oz master mix in your backpack outside/in the hallway, and top up your small flask during the 2-minute round-change movement break.
+      * **Solution 2 (The Concentrated Dropper Bottle):** Pre-mix your DIY electrolyte salts into a small 2 oz glass amber squeeze dropper bottle. At the table, squirt a few concentrated drops into a standard venue water cup whenever you need a sip.
+    * *Cost Comparison:* Fractions of a cent per batch versus commercial packet pricing. Fully tournament legal.
+  * **Steelman Case for the Targeted Na + K Electrolyte Approach:**
+    * **1. The Electrochemical Engine of the Brain:** The human brain is an electrochemical organ. Every cognitive calculation, memory retrieval, and combinatorial visualization depends entirely on the **Sodium-Potassium Pump (Na+/K+-ATPase)** across neuronal membranes. Without steady extracellular Sodium (Na+) and intracellular Potassium (K+), action potential propagation slows, increasing working memory latency and calculation errors.
+    * **2. Preventing Hypovolemic Brain Fog:** Sitting upright for 8–10 hours causes venous blood pooling in the lower body. Drinking plain water without electrolytes triggers immediate renal excretion (diuresis), dropping blood volume (hypovolemia). Reduced blood volume drops cerebral blood perfusion, causing brain fog and premature fatigue. Sodium acts as a vascular osmotic anchor, retaining water in plasma to keep the brain fully oxygenated and perfused.
+    * **3. Eradicating Biological Background Noise:** Minor electrolyte depletion triggers subtle autonomic stress responses—micro-cramping, restlessness, headaches, and irritability. In elite bridge, where psychological telemetry and memory span demand 100% of your cognitive bandwidth, any internal biological distress acts as static interference. The Na + K protocol achieves absolute biological homeostasis, freeing your entire mental RAM for the table.
 ### 9. Advanced Cognitive Enhancers & Tournament Nutrition Architecture
 * **Safe & Legal Nootropics for Bridge Cognition:**
   * **Choline Donors (Alpha-GPC or Citicoline):** Acetylcholine is the primary neurotransmitter for working memory, pattern recognition, and calculation depth. Supplementing 300–600 mg of Alpha-GPC 45 minutes before Game 1 enhances synaptic transmission speed.
