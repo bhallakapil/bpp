@@ -178,10 +178,22 @@ When partnership bidding systems and defensive signals operate at zero cognitive
     * **2. Preventing Hypovolemic Brain Fog:** Sitting upright for 8–10 hours causes venous blood pooling in the lower body. Drinking plain water without electrolytes triggers immediate renal excretion (diuresis), dropping blood volume (hypovolemia). Reduced blood volume drops cerebral blood perfusion, causing brain fog and premature fatigue. Sodium acts as a vascular osmotic anchor, retaining water in plasma to keep the brain fully oxygenated and perfused.
     * **3. Eradicating Biological Background Noise:** Minor electrolyte depletion triggers subtle autonomic stress responses—micro-cramping, restlessness, headaches, and irritability. In elite bridge, where psychological telemetry and memory span demand 100% of your cognitive bandwidth, any internal biological distress acts as static interference. The Na + K protocol achieves absolute biological homeostasis, freeing your entire mental RAM for the table.
 ### 9. Advanced Cognitive Enhancers & Tournament Nutrition Architecture
-* **Safe & Legal Nootropics for Bridge Cognition:**
-  * **Choline Donors (Alpha-GPC or Citicoline):** Acetylcholine is the primary neurotransmitter for working memory, pattern recognition, and calculation depth. Supplementing 300–600 mg of Alpha-GPC 45 minutes before Game 1 enhances synaptic transmission speed.
-  * **L-Theanine:** If any caffeine is consumed, pair it with a 2:1 ratio of L-Theanine to eliminate jitter, smooth out neural activation, and maintain laser-focused calm under time pressure.
+* **Safe & Legal Nootropics & Supplements for Bridge Cognition:**
+  * **L-Tyrosine (Sustaining Mental Stamina Under Fatigue):** Precursor to dopamine and norepinephrine. Supplementing 500–1,000 mg pre-session replenishes neurotransmitter stores and prevents calculation slowdown during Sessions 8 through 12.
+  * **Foundational Daily Micronutrient Stack (Fish Oil, D3/K2, B12):**
+    * **Fish Oil (Omega-3 EPA/DHA):** Maintains neuronal membrane fluidity, reduces neuroinflammation, and supports long-term memory recall. Take daily with a meal.
+    * **Vitamin D3 + K2:** Supports systemic neurological health, immune function, and cellular signaling. Take daily with fat-containing meals.
+    * **Vitamin B12:** Essential for neurological integrity, nerve myelination, and cellular energy metabolism (especially critical if avoiding beef or following restricted diets). Take daily.
   * **Adaptogens (Rhodiola Rosea):** Reduces cortisol response to bad boards and mitigates late-session mental fatigue during 8-hour tournament days.
+* **Master Supplement & Hydration Protocol Summary:**
+
+| Timing | Core Items & Dosage | Core Purpose |
+| :--- | :--- | :--- |
+| **Morning (With Breakfast)** | Vitamin D3/K2 (1 cap), Fish Oil (1–2 caps), B12 (1 tab), Magnesium (120mg) | Foundational neural integrity & membrane fluidity |
+| **Pre-Session (45–60 min prior)** | L-Tyrosine (500–1,000mg) | Dopamine/norepinephrine fatigue resistance |
+| **Pre-Session (60 min prior)** | Clean Protein Isolate (1 serving, zero sugar) | Stable amino acids without digestive brain fog |
+| **During Play (Sipped)** | DIY Na + K Master Mix (1/4 tsp per 16 oz flask) | Electrochemical action potentials & cerebral perfusion |
+
 * **Tournament Food Choices (Optimizing Glycemic Stability & Blood Flow):**
   * **Pre-Session Meal (Breakfast / Lunch):**
     * *Foods:* Pasture-raised eggs, avocado, smoked salmon, grilled chicken breast, or clean protein isolate.
